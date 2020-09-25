@@ -1,0 +1,113 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Gonzalez/Zeballos
+Comparando Hugo Dellien con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Hugo Dellien y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Gregoire Barrere con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Gregoire Barrere y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Diego Schwartzman con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Diego Schwartzman y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Jozef Kovalik con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Jozef Kovalik y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Katarina Zavatska con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Katarina Zavatska y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Anna Kalinskaya con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Anna Kalinskaya y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Ekaterina Alexandrova con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Ekaterina Alexandrova y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Anna-Lena Friedsam con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Anna-Lena Friedsam y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Varvara Lepchenko con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Varvara Lepchenko y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Ekaterine Gorgodze con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Ekaterine Gorgodze y Gonzalez/Zeballos
+El segundo jugador es partido de dobles
+Comparando Gonzalez/Zeballos con Gonzalez/Zeballos
+Similar-> Jugadores recibidos: Gonzalez/Zeballos y Gonzalez/Zeballos
+Partido de dobles
+Comparacion Gonzalez y Gonzalez -> 1.0
+Comparacion Zeballos y Zeballos -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[10.00,1.062]
+Similar2-> Jugadores recibidos Gonzalez/Zeballos y Gonzalez/Zeballos (Svr)
+Comparando Gonzalez/Zeballos con Gonzalez/Zeballos
+Bet365-> Tipo apuesta(15th Game Winner) con colocacion correcta y juego 15th : Cotizaciones[1.12,6.00]
+Similar2-> Jugadores recibidos Gonzalez/Zeballos y Mektic/Skugor (Svr)
+Comparando Gonzalez/Zeballos con Mektic/Skugor
+Bet365-> Tipo apuesta(16th Game Winner) con colocacion incorrecta y juego 16th : Cotizaciones[1.20,4.33]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 14
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[9.0,1.02]
+Margenes: [1.1920529801324504,1000]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [10.0, 1.062], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-91")>, <selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-92")>]}, 23: {'cotizaciones': [1.12, 6.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-97")>, <selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-99")>]}, 24: {'cotizaciones': [4.33, 1.2], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-103")>, <selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-101")>]}}
+Bet365, recibido tipo apuesta: [1, 1.1920529801324504, 1000]
+Se ha encontrado apuesta en bet365({'cotizaciones': [10.0, 1.062], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-91")>, <selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-92")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Winner
+Se esta comprobando el juego: 15 con 14
+Betfair-> Tipo apuesta: Set 2 Game 5 Winner Cotizaciones[1.32,3.0]
+Margenes: [5.196850393700788,1.621621621621622]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [23, 5.196850393700788, 1.621621621621622]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.12, 6.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-97")>, <selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-99")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 6.0 Dinero a apostar: 5.0 Beneficios: 30
+SURE BET
+['Mektic/Skugor', 'to', 'win', '15th', 'game']
+Betfair no apuesta
+Bet365 no apuesta por culpa de betfair
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Winner
+Se esta comprobando el juego: 16 con 14
+Betfair-> Tipo apuesta: Set 2 Game 6 Winner Cotizaciones[4.0,1.2]
+Margenes: [1.4285714285714286,8.571428571428577]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [24, 1.4285714285714286, 8.571428571428577]
+Se ha encontrado apuesta en bet365({'cotizaciones': [4.33, 1.2], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-103")>, <selenium.webdriver.remote.webelement.WebElement (session="b9b618546bc4a292be4eff3a95a5df52", element="0.315579312135825-101")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[ , ]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1000]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Gonzalez / Zeballos to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game Handicap 2.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 3.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 5.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 6.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 0.5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar

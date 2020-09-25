@@ -1,0 +1,656 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: James Ward
+Comparando James Ward con James Ward
+Similar-> Jugadores recibidos: James Ward y James Ward
+Partido individual
+Comparacion Ward y Ward -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet-> Diccionario de apuestas completo
+{}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 15
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[3.2,1.28]
+Margenes: [1.5686274509803921,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.5686274509803921, 5.9259259259259265]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Winner
+Se esta comprobando el juego: 16 con 15
+Betfair-> Tipo apuesta: Set 2 Game 6 Winner Cotizaciones[5.5,1.09]
+Margenes: [1.3017751479289943,30.7042253521126]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [24, 1.3017751479289943, 30.7042253521126]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Point 9 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Point 11 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Point 10 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Winner
+Se esta comprobando el juego: 17 con 15
+Betfair-> Tipo apuesta: Set 2 Game 7 Winner Cotizaciones[1.28,3.2]
+Margenes: [5.9259259259259265,1.5686274509803921]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [25, 5.9259259259259265, 1.5686274509803921]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Winner
+Se esta comprobando el juego: 18 con 15
+Betfair-> Tipo apuesta: Set 2 Game 8 Winner Cotizaciones[3.7,1.2]
+Margenes: [1.47117296222664,8.571428571428577]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [26, 1.47117296222664, 8.571428571428577]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.72,2.0]
+Margenes: [2.712933753943218,2.2222222222222223]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.712933753943218, 2.2222222222222223]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: James Ward to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Sebastian Korda Total Games 13.5
+Betfair, tipo de apuesta antes de comprobar: 2nd Set Score after 6 Games
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Noah Rubin
+Comparando James Ward con Noah Rubin
+Similar-> Jugadores recibidos: James Ward y Noah Rubin
+Partido individual
+Comparacion Ward y Rubin -> 0.0
+Comparando Sebastian Korda con Noah Rubin
+Similar-> Jugadores recibidos: Sebastian Korda y Noah Rubin
+Partido individual
+Comparacion Korda y Rubin -> 0.0
+Comparando Noah Rubin con Noah Rubin
+Similar-> Jugadores recibidos: Noah Rubin y Noah Rubin
+Partido individual
+Comparacion Rubin y Rubin -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Betfair empieza a enviar estadisticas a bet365
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.75,2.00]
+Similar2-> Jugadores recibidos Noah Rubin y Noah Rubin (Svr)
+Comparando Noah Rubin con Noah Rubin
+Bet365-> Tipo apuesta(6th Game Winner) con colocacion correcta y juego 6th : Cotizaciones[2.10,1.66]
+Nos encontramos en el juego 0 del set 1
+El juego actual es: 5
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Similar2-> Jugadores recibidos Noah Rubin y Martin Cuevas (Svr)
+Comparando Noah Rubin con Martin Cuevas
+Bet365-> Tipo apuesta(7th Game Winner) con colocacion incorrecta y juego 7th : Cotizaciones[1.36,3.00]
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.8,1.85]
+Margenes: [2.535211267605634,2.442244224422442]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.75, 2.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-119")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-120")>]}, 14: {'cotizaciones': [2.1, 1.66], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-125")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-127")>]}, 15: {'cotizaciones': [3.0, 1.36], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-131")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-129")>]}}
+Bet365, recibido tipo apuesta: [1, 2.535211267605634, 2.442244224422442]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.75, 2.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-119")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-120")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Winner
+Se esta comprobando el juego: 6 con 5
+Betfair-> Tipo apuesta: Set 1 Game 6 Winner Cotizaciones[2.05,1.65]
+Margenes: [2.1635883905013196,2.9074889867841414]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [14, 2.1635883905013196, 2.9074889867841414]
+Se ha encontrado apuesta en bet365({'cotizaciones': [2.1, 1.66], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-125")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-127")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Point 8 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Winner
+Se esta comprobando el juego: 7 con 5
+Betfair-> Tipo apuesta: Set 1 Game 7 Winner Cotizaciones[3.2,1.28]
+Margenes: [1.5686274509803921,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [15, 1.5686274509803921, 5.9259259259259265]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.0, 1.36], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-131")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-129")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 8 Winner
+Se esta comprobando el juego: 8 con 5
+Betfair-> Tipo apuesta: Set 1 Game 8 Winner Cotizaciones[1.2,3.5]
+Margenes: [8.571428571428577,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [16, 8.571428571428577, 1.5053763440860217]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 8 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Winner
+Betfair-> Tipo apuesta: Set 1 Winner Cotizaciones[2.7,1.38]
+Margenes: [1.7252396166134187,4.437299035369775]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1.7252396166134187, 4.437299035369775]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.61,2.2]
+Margenes: [3.040604343720491,2.0183486238532113]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [5, 3.040604343720491, 2.0183486238532113]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 8 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 1 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 1 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 1 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Noah Rubin to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Martin Cuevas to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Noah Rubin Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: Martin Cuevas Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: 1st Set Score after 6 Games
+Betfair, tipo de apuesta antes de comprobar: Correct Score 1st Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Arias/Bangoura
+Comparando James Ward con Arias/Bangoura
+Similar-> Jugadores recibidos: James Ward y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Sebastian Korda con Arias/Bangoura
+Similar-> Jugadores recibidos: Sebastian Korda y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Noah Rubin con Arias/Bangoura
+Similar-> Jugadores recibidos: Noah Rubin y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Martin Cuevas con Arias/Bangoura
+Similar-> Jugadores recibidos: Martin Cuevas y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Quentin Halys con Arias/Bangoura
+Similar-> Jugadores recibidos: Quentin Halys y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Thomaz Bellucci con Arias/Bangoura
+Similar-> Jugadores recibidos: Thomaz Bellucci y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Christian Langmo con Arias/Bangoura
+Similar-> Jugadores recibidos: Christian Langmo y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Jordan Hasson con Arias/Bangoura
+Similar-> Jugadores recibidos: Jordan Hasson y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Florian Lakat con Arias/Bangoura
+Similar-> Jugadores recibidos: Florian Lakat y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Julian Bradley con Arias/Bangoura
+Similar-> Jugadores recibidos: Julian Bradley y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Miriam B Bulgaru con Arias/Bangoura
+Similar-> Jugadores recibidos: Miriam B Bulgaru y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Federica Di Sarra con Arias/Bangoura
+Similar-> Jugadores recibidos: Federica Di Sarra y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Sara Cakarevic con Arias/Bangoura
+Similar-> Jugadores recibidos: Sara Cakarevic y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Daria Lopatetska con Arias/Bangoura
+Similar-> Jugadores recibidos: Daria Lopatetska y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Anastasia Grymalska con Arias/Bangoura
+Similar-> Jugadores recibidos: Anastasia Grymalska y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Naiktha Bains con Arias/Bangoura
+Similar-> Jugadores recibidos: Naiktha Bains y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Mathilde Armitano con Arias/Bangoura
+Similar-> Jugadores recibidos: Mathilde Armitano y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Louise Lampla con Arias/Bangoura
+Similar-> Jugadores recibidos: Louise Lampla y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Patricia Maria Tig con Arias/Bangoura
+Similar-> Jugadores recibidos: Patricia Maria Tig y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Andrea R Villarreal con Arias/Bangoura
+Similar-> Jugadores recibidos: Andrea R Villarreal y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Yuliana Lizarazo con Arias/Bangoura
+Similar-> Jugadores recibidos: Yuliana Lizarazo y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Mara Schmidt con Arias/Bangoura
+Similar-> Jugadores recibidos: Mara Schmidt y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Ellen Perez con Arias/Bangoura
+Similar-> Jugadores recibidos: Ellen Perez y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Sophie Chang con Arias/Bangoura
+Similar-> Jugadores recibidos: Sophie Chang y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Zoe Hives con Arias/Bangoura
+Similar-> Jugadores recibidos: Zoe Hives y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Usue Maitane Arconada con Arias/Bangoura
+Similar-> Jugadores recibidos: Usue Maitane Arconada y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Destanee Aiava con Arias/Bangoura
+Similar-> Jugadores recibidos: Destanee Aiava y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Francesca Di Lorenzo con Arias/Bangoura
+Similar-> Jugadores recibidos: Francesca Di Lorenzo y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando David Pichler con Arias/Bangoura
+Similar-> Jugadores recibidos: David Pichler y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Benjamin Pietri con Arias/Bangoura
+Similar-> Jugadores recibidos: Benjamin Pietri y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Federico Arnaboldi con Arias/Bangoura
+Similar-> Jugadores recibidos: Federico Arnaboldi y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Giovanni Fonio con Arias/Bangoura
+Similar-> Jugadores recibidos: Giovanni Fonio y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Gibril Diarra con Arias/Bangoura
+Similar-> Jugadores recibidos: Gibril Diarra y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Hugo Gaston con Arias/Bangoura
+Similar-> Jugadores recibidos: Hugo Gaston y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Toby Martin con Arias/Bangoura
+Similar-> Jugadores recibidos: Toby Martin y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Duje Kekez con Arias/Bangoura
+Similar-> Jugadores recibidos: Duje Kekez y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Yeudy Villar con Arias/Bangoura
+Similar-> Jugadores recibidos: Yeudy Villar y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Daniel Fainblum con Arias/Bangoura
+Similar-> Jugadores recibidos: Daniel Fainblum y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Dmitry Popko con Arias/Bangoura
+Similar-> Jugadores recibidos: Dmitry Popko y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando John Harrison Richmond con Arias/Bangoura
+Similar-> Jugadores recibidos: John Harrison Richmond y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Kelly Williford con Arias/Bangoura
+Similar-> Jugadores recibidos: Kelly Williford y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Lucia De Santa Ana con Arias/Bangoura
+Similar-> Jugadores recibidos: Lucia De Santa Ana y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Kirsten-Andrea Weedon con Arias/Bangoura
+Similar-> Jugadores recibidos: Kirsten-Andrea Weedon y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Yoryana Delgado Herrera con Arias/Bangoura
+Similar-> Jugadores recibidos: Yoryana Delgado Herrera y Arias/Bangoura
+El segundo jugador es partido de dobles
+Comparando Brkic/Draganja con Arias/Bangoura
+Similar-> Jugadores recibidos: Brkic/Draganja y Arias/Bangoura
+Partido de dobles
+Comparacion Brkic y Arias -> 0.0
+Comparacion Draganja y Bangoura -> 0.05263157894736842
+Comparando Siljestrom/Walkow con Arias/Bangoura
+Similar-> Jugadores recibidos: Siljestrom/Walkow y Arias/Bangoura
+Partido de dobles
+Comparacion Siljestrom y Arias -> 0.0
+Comparacion Walkow y Bangoura -> 0.0
+Comparando Agamenone/Bagnis con Arias/Bangoura
+Similar-> Jugadores recibidos: Agamenone/Bagnis y Arias/Bangoura
+Partido de dobles
+Comparacion Agamenone y Arias -> 0.058823529411764705
+Comparacion Bagnis y Bangoura -> 0.125
+Comparando Eysseric/Sancic con Arias/Bangoura
+Similar-> Jugadores recibidos: Eysseric/Sancic y Arias/Bangoura
+Partido de dobles
+Comparacion Eysseric y Arias -> 0.0
+Comparacion Sancic y Bangoura -> 0.0
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Quentin Halys
+Comparando James Ward con Quentin Halys
+Similar-> Jugadores recibidos: James Ward y Quentin Halys
+Partido individual
+Comparacion Ward y Halys -> 0.0
+Comparando Sebastian Korda con Quentin Halys
+Similar-> Jugadores recibidos: Sebastian Korda y Quentin Halys
+Partido individual
+Comparacion Korda y Halys -> 0.0
+Comparando Noah Rubin con Quentin Halys
+Similar-> Jugadores recibidos: Noah Rubin y Quentin Halys
+Partido individual
+Comparacion Rubin y Halys -> 0.0
+Comparando Martin Cuevas con Quentin Halys
+Similar-> Jugadores recibidos: Martin Cuevas y Quentin Halys
+Partido individual
+Comparacion Cuevas y Halys -> 0.07142857142857142
+Comparando Quentin Halys con Quentin Halys
+Similar-> Jugadores recibidos: Quentin Halys y Quentin Halys
+Partido individual
+Comparacion Halys y Halys -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.25,1.33]
+Similar2-> Jugadores recibidos Quentin Halys y Thomaz Bellucci (Svr)
+Comparando Quentin Halys con Thomaz Bellucci
+Bet365-> Tipo apuesta(20th Game Winner) con colocacion incorrecta y juego 20th : Cotizaciones[2.37,1.53]
+Betfair empieza a enviar estadisticas a bet365
+Similar2-> Jugadores recibidos Quentin Halys y Quentin Halys (Svr)
+Comparando Quentin Halys con Quentin Halys
+Bet365-> Tipo apuesta(21st Game Winner) con colocacion correcta y juego 21st : Cotizaciones[1.50,2.50]
+Nos encontramos en el juego 17 del set 3
+El juego actual es: 19
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[4.0,1.18]
+Margenes: [1.4285714285714286,9.75206611570248]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.25, 1.33], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-272")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-273")>]}, 28: {'cotizaciones': [1.53, 2.37], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-277")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-275")>]}, 29: {'cotizaciones': [1.5, 2.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-279")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-281")>]}}
+Bet365, recibido tipo apuesta: [1, 1.4285714285714286, 9.75206611570248]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.25, 1.33], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-272")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-273")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 3 Winner
+Se esta comprobando el juego: 20 con 19
+Betfair-> Tipo apuesta: Set 3 Game 3 Winner Cotizaciones[2.3,1.5]
+Margenes: [1.9409282700421946,3.529411764705884]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [28, 1.9409282700421946, 3.529411764705884]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.53, 2.37], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-277")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-275")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 2.37 Dinero a apostar: 12.66 Beneficios: 30
+SURE BET
+Betfair-> Excepcion: Message: no such element: Unable to locate element: {"method":"class name","selector":"stake"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Linux 4.15.0-47-generic x86_64)
+
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 3 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 3 Correct Score
+['Thomaz', 'Bellucci', '(Svr)', 'to', 'win', '20th', 'game']
+Bet365 no apuesta por culpa de betfair
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Winner
+Se esta comprobando el juego: 21 con 19
+Betfair-> Tipo apuesta: Set 3 Game 4 Winner Cotizaciones[1.44,2.5]
+Margenes: [3.9130434782608705,1.8181818181818181]
+Betfair, enviado tipo apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Winner
+Se esta comprobando el juego: 22 con 19
+Betfair-> Tipo apuesta: Set 3 Game 5 Winner Cotizaciones[3.1,1.29]
+Margenes: [1.5938303341902316,5.720620842572061]
+Betfair, enviado tipo apuesta
+Obteniendo proxima apuesta
+Bet365, recibido tipo apuesta: [29, 3.9130434782608705, 1.8181818181818181]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.5, 2.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-279")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-281")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Bet365, recibido tipo apuesta: [30, 1.5938303341902316, 5.720620842572061]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 3 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 3 Game 3, 4
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 2, 3
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 3, 4
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Total Match Games 25.5
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Thomaz Bellucci Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: 3rd Set Score after 4 Games
+Betfair, tipo de apuesta antes de comprobar: 3rd Set Score after 6 Games
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Agamenone/Bagnis
+Comparando James Ward con Agamenone/Bagnis
+Similar-> Jugadores recibidos: James Ward y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Sebastian Korda con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Sebastian Korda y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Noah Rubin con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Noah Rubin y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Martin Cuevas con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Martin Cuevas y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Quentin Halys con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Quentin Halys y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Thomaz Bellucci con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Thomaz Bellucci y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Christian Langmo con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Christian Langmo y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Jordan Hasson con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Jordan Hasson y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Florian Lakat con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Florian Lakat y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Julian Bradley con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Julian Bradley y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Miriam B Bulgaru con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Miriam B Bulgaru y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Federica Di Sarra con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Federica Di Sarra y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Sara Cakarevic con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Sara Cakarevic y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Daria Lopatetska con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Daria Lopatetska y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Anastasia Grymalska con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Anastasia Grymalska y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Naiktha Bains con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Naiktha Bains y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Mathilde Armitano con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Mathilde Armitano y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Louise Lampla con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Louise Lampla y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Patricia Maria Tig con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Patricia Maria Tig y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Andrea R Villarreal con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Andrea R Villarreal y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Yuliana Lizarazo con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Yuliana Lizarazo y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Mara Schmidt con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Mara Schmidt y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Ellen Perez con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Ellen Perez y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Sophie Chang con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Sophie Chang y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Zoe Hives con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Zoe Hives y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Usue Maitane Arconada con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Usue Maitane Arconada y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Destanee Aiava con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Destanee Aiava y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Francesca Di Lorenzo con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Francesca Di Lorenzo y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando David Pichler con Agamenone/Bagnis
+Similar-> Jugadores recibidos: David Pichler y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Benjamin Pietri con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Benjamin Pietri y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Federico Arnaboldi con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Federico Arnaboldi y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Giovanni Fonio con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Giovanni Fonio y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Gibril Diarra con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Gibril Diarra y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Hugo Gaston con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Hugo Gaston y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Toby Martin con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Toby Martin y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Duje Kekez con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Duje Kekez y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Yeudy Villar con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Yeudy Villar y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Daniel Fainblum con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Daniel Fainblum y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Dmitry Popko con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Dmitry Popko y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando John Harrison Richmond con Agamenone/Bagnis
+Similar-> Jugadores recibidos: John Harrison Richmond y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Kelly Williford con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Kelly Williford y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Lucia De Santa Ana con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Lucia De Santa Ana y Agamenone/Bagnis
+El segundo jugador es partido de dobles
+Comparando Brkic/Draganja con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Brkic/Draganja y Agamenone/Bagnis
+Partido de dobles
+Comparacion Brkic y Agamenone -> 0.0
+Comparacion Draganja y Bagnis -> 0.0
+Comparando Siljestrom/Walkow con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Siljestrom/Walkow y Agamenone/Bagnis
+Partido de dobles
+Comparacion Siljestrom y Agamenone -> 0.0
+Comparacion Walkow y Bagnis -> 0.0
+Comparando Agamenone/Bagnis con Agamenone/Bagnis
+Similar-> Jugadores recibidos: Agamenone/Bagnis y Agamenone/Bagnis
+Partido de dobles
+Comparacion Agamenone y Agamenone -> 1.0
+Comparacion Bagnis y Bagnis -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.75,1.25]
+Similar2-> Jugadores recibidos Agamenone/Bagnis y Eysseric/Sancic (Svr)
+Comparando Agamenone/Bagnis con Eysseric/Sancic
+Bet365-> Tipo apuesta(11th Game Winner) con colocacion incorrecta y juego 11th : Cotizaciones[1.22,4.00]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-393")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-394")>]}, 19: {'cotizaciones': [4.0, 1.22], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-401")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-399")>]}}
+Bet365, recibido tipo apuesta: L Zapp
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 19
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.06,6.5]
+Margenes: [151.4285714285737,1.2560386473429952]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 151.4285714285737, 1.2560386473429952]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-393")>, <selenium.webdriver.remote.webelement.WebElement (session="4f0150aef814673376c785d53ec1ab43", element="0.1416459992498662-394")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 3.75 Dinero a apostar: 8.0 Beneficios: 30
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 Winner
+Se esta comprobando el juego: 20 con 19
+Betfair-> Tipo apuesta: Set 2 Game 10 Winner Cotizaciones[1.28,3.2]
+Margenes: [5.9259259259259265,1.5686274509803921]
+Betfair, enviado tipo apuesta
+SURE BET
+Bet365 no apuesta por culpa de betfair
+Betfair hace click en apostar
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 Point 5 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 11 Winner
+Se esta comprobando el juego: 21 con 19
+Betfair-> Tipo apuesta: Set 2 Game 11 Winner Cotizaciones[2.7,1.38]
+Margenes: [1.7252396166134187,4.437299035369775]
+Betfair, enviado tipo apuesta

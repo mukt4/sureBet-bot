@@ -1,0 +1,324 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: James Ward
+Comparando James Ward con James Ward
+Similar-> Jugadores recibidos: James Ward y James Ward
+Partido individual
+Comparacion Ward y Ward -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Betfair empieza a enviar estadisticas a bet365
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[4.00,1.22]
+Similar2-> Jugadores recibidos James Ward y James Ward (Svr)
+Comparando James Ward con James Ward
+Bet365-> Tipo apuesta(17th Game Winner) con colocacion correcta y juego 17th : Cotizaciones[1.040,9.00]
+Similar2-> Jugadores recibidos James Ward y Sebastian Korda (Svr)
+Comparando James Ward con Sebastian Korda
+Bet365-> Tipo apuesta(18th Game Winner) con colocacion incorrecta y juego 18th : Cotizaciones[1.25,3.75]
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 16
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[3.2,1.28]
+Margenes: [1.5686274509803921,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [4.0, 1.22], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-75")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-76")>]}, 25: {'cotizaciones': [1.04, 9.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-81")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-83")>]}, 26: {'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-87")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-85")>]}}
+Bet365, recibido tipo apuesta: [1, 1.5686274509803921, 5.9259259259259265]
+Se ha encontrado apuesta en bet365({'cotizaciones': [4.0, 1.22], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-75")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-76")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Winner
+Se esta comprobando el juego: 17 con 16
+Betfair-> Tipo apuesta: Set 2 Game 7 Winner Cotizaciones[1.005,10.5]
+Margenes: [1000,1.16991643454039]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [25, 1000, 1.16991643454039]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.04, 9.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-81")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-83")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Winner
+Se esta comprobando el juego: 18 con 16
+Betfair-> Tipo apuesta: Set 2 Game 8 Winner Cotizaciones[4.0,1.18]
+Margenes: [1.4285714285714286,9.75206611570248]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [26, 1.4285714285714286, 9.75206611570248]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-87")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-85")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 Winner
+Se esta comprobando el juego: 19 con 16
+Betfair-> Tipo apuesta: Set 2 Game 9 Winner Cotizaciones[1.28,3.2]
+Margenes: [5.9259259259259265,1.5686274509803921]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [27, 5.9259259259259265, 1.5686274509803921]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.66,2.1]
+Margenes: [2.876949740034662,2.1105527638190957]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.876949740034662, 2.1105527638190957]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 7, 8
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 7, 8
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: James Ward to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Noah Rubin
+Comparando James Ward con Noah Rubin
+Similar-> Jugadores recibidos: James Ward y Noah Rubin
+Partido individual
+Comparacion Ward y Rubin -> 0.0
+Comparando Sebastian Korda con Noah Rubin
+Similar-> Jugadores recibidos: Sebastian Korda y Noah Rubin
+Partido individual
+Comparacion Korda y Rubin -> 0.0
+Comparando Noah Rubin con Noah Rubin
+Similar-> Jugadores recibidos: Noah Rubin y Noah Rubin
+Partido individual
+Comparacion Rubin y Rubin -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[2.20,1.61]
+Similar2-> Jugadores recibidos Noah Rubin y Noah Rubin (Svr)
+Comparando Noah Rubin con Noah Rubin
+Bet365-> Tipo apuesta(8th Game Winner) con colocacion correcta y juego 8th : Cotizaciones[1.28,3.50]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 0 del set 1
+El juego actual es: 6
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[2.0,1.68]
+Margenes: [2.2222222222222223,2.818791946308725]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [2.2, 1.61], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-162")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-163")>]}, 16: {'cotizaciones': [1.28, 3.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-168")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-170")>]}}
+Bet365, recibido tipo apuesta: [1, 2.2222222222222223, 2.818791946308725]
+Se ha encontrado apuesta en bet365({'cotizaciones': [2.2, 1.61], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-162")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-163")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Winner
+Se esta comprobando el juego: 7 con 6
+Betfair-> Tipo apuesta: Set 1 Game 7 Winner Cotizaciones[2.3,1.5]
+Margenes: [1.9409282700421946,3.529411764705884]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [15, 1.9409282700421946, 3.529411764705884]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 8 Winner
+Se esta comprobando el juego: 8 con 6
+Betfair-> Tipo apuesta: Set 1 Game 8 Winner Cotizaciones[1.28,3.5]
+Margenes: [5.9259259259259265,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [16, 5.9259259259259265, 1.5053763440860217]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.28, 3.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-168")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-170")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 8 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 9 Winner
+Se esta comprobando el juego: 9 con 6
+Betfair-> Tipo apuesta: Set 1 Game 9 Winner Cotizaciones[3.2,1.28]
+Margenes: [1.5686274509803921,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [17, 1.5686274509803921, 5.9259259259259265]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 9 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Winner
+Betfair-> Tipo apuesta: Set 1 Winner Cotizaciones[4.0,1.18]
+Margenes: [1.4285714285714286,9.75206611570248]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1.4285714285714286, 9.75206611570248]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.61,2.2]
+Margenes: [3.040604343720491,2.0183486238532113]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [5, 3.040604343720491, 2.0183486238532113]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 8 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 9 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 1 Game 7, 8
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 1 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 1 Game 7, 8
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Noah Rubin to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Martin Cuevas to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Game Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Total Match Games 23.5
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Noah Rubin Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: Martin Cuevas Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: Correct Score 1st Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game Handicap 2.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 3.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 6 5.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Quentin Halys
+Comparando James Ward con Quentin Halys
+Similar-> Jugadores recibidos: James Ward y Quentin Halys
+Partido individual
+Comparacion Ward y Halys -> 0.0
+Comparando Sebastian Korda con Quentin Halys
+Similar-> Jugadores recibidos: Sebastian Korda y Quentin Halys
+Partido individual
+Comparacion Korda y Halys -> 0.0
+Comparando Noah Rubin con Quentin Halys
+Similar-> Jugadores recibidos: Noah Rubin y Quentin Halys
+Partido individual
+Comparacion Rubin y Halys -> 0.0
+Comparando Martin Cuevas con Quentin Halys
+Similar-> Jugadores recibidos: Martin Cuevas y Quentin Halys
+Partido individual
+Comparacion Cuevas y Halys -> 0.07142857142857142
+Comparando Quentin Halys con Quentin Halys
+Similar-> Jugadores recibidos: Quentin Halys y Quentin Halys
+Partido individual
+Comparacion Halys y Halys -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.40,1.30]
+Similar2-> Jugadores recibidos Quentin Halys y Quentin Halys (Svr)
+Comparando Quentin Halys con Quentin Halys
+Bet365-> Tipo apuesta(22nd Game Winner) con colocacion correcta y juego 22nd : Cotizaciones[2.62,1.44]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 17 del set 3
+El juego actual es: 20
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.0, 1.36], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-242")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-243")>]}, 30: {'cotizaciones': [2.62, 1.44], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-245")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-247")>]}}
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[3.5,1.24]
+Margenes: [1.5053763440860217,6.9662921348314635]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.5053763440860217, 6.9662921348314635]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.0, 1.36], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-242")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-243")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Winner
+Se esta comprobando el juego: 21 con 20
+Betfair-> Tipo apuesta: Set 3 Game 4 Winner Cotizaciones[4.5,1.14]
+Margenes: [1.3740458015267178,13.73493975903615]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [29, 1.3740458015267178, 13.73493975903615]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Point 8 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Winner
+Se esta comprobando el juego: 22 con 20
+Betfair-> Tipo apuesta: Set 3 Game 5 Winner Cotizaciones[2.8,1.35]
+Margenes: [1.6867469879518073,4.778761061946903]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [30, 1.6867469879518073, 4.778761061946903]
+Se ha encontrado apuesta en bet365({'cotizaciones': [2.62, 1.44], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-245")>, <selenium.webdriver.remote.webelement.WebElement (session="2b61ae46794b1f2967e45972ed269975", element="0.03307104341726963-247")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Winner
+Se esta comprobando el juego: 23 con 20
+Betfair-> Tipo apuesta: Set 3 Game 6 Winner Cotizaciones[1.55,2.2]
+Margenes: [3.280423280423281,2.0183486238532113]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [31, 3.280423280423281, 2.0183486238532113]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 4 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 3 Game 3, 4
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 3 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Game Handicap -0.5
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Quentin Halys Total Games 13.5
+Betfair, tipo de apuesta antes de comprobar: Thomaz Bellucci Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: 3rd Set Score after 4 Games
+Betfair, tipo de apuesta antes de comprobar: 3rd Set Score after 6 Games
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game Handicap 2.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 -1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -4.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas

@@ -1,0 +1,183 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Albert Ramos-Vinolas
+Comparando Albert Ramos-Vinolas con Albert Ramos-Vinolas
+Similar-> Jugadores recibidos: Albert Ramos-Vinolas y Albert Ramos-Vinolas
+Partido individual
+Comparacion Ramos-Vinolas y Ramos-Vinolas -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.083,8.00]
+Similar2-> Jugadores recibidos Albert Ramos-Vinolas y Albert Ramos-Vinolas (Svr)
+Comparando Albert Ramos-Vinolas con Albert Ramos-Vinolas
+Bet365-> Tipo apuesta(22nd Game Winner) con colocacion correcta y juego 22nd : Cotizaciones[1.12,6.00]
+Betfair empieza a enviar estadisticas a bet365
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.083, 8.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-70")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-71")>]}, 30: {'cotizaciones': [1.12, 6.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-76")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-78")>]}}
+Nos encontramos en el juego 8 del set 2
+El juego actual es: 20
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.06,6.5]
+Margenes: [151.4285714285737,1.2560386473429952]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 151.4285714285737, 1.2560386473429952]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.083, 8.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-70")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-71")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.35,2.85]
+Margenes: [4.778761061946903,1.6691068814055636]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 4.778761061946903, 1.6691068814055636]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Tiebreak Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 1 Winner
+Se esta comprobando el juego: 9 con 20
+Betfair-> Tipo apuesta: Set 3 Game 1 Winner Cotizaciones[1.12,5.25]
+Margenes: [17.499999999999986,1.316614420062696]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [17, 17.499999999999986, 1.316614420062696]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 1 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 2 Winner
+Se esta comprobando el juego: 10 con 20
+Betfair-> Tipo apuesta: Set 3 Game 2 Winner Cotizaciones[3.75,1.22]
+Margenes: [1.4634146341463414,7.672955974842766]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [18, 1.4634146341463414, 7.672955974842766]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 2 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 3 Winner
+Se esta comprobando el juego: 11 con 20
+Betfair-> Tipo apuesta: Set 3 Game 3 Winner Cotizaciones[1.14,4.75]
+Margenes: [13.73493975903615,1.3523131672597863]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [19, 13.73493975903615, 1.3523131672597863]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 3 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 12, 13
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Alexei Popyrin to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 -5.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 -3.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -6.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 -2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -8.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 6 -0.5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Hugo Dellien
+Comparando Albert Ramos-Vinolas con Hugo Dellien
+Similar-> Jugadores recibidos: Albert Ramos-Vinolas y Hugo Dellien
+Partido individual
+Comparacion Ramos-Vinolas y Dellien -> 0.0
+Comparando Alexei Popyrin con Hugo Dellien
+Similar-> Jugadores recibidos: Alexei Popyrin y Hugo Dellien
+Partido individual
+Comparacion Popyrin y Dellien -> 0.058823529411764705
+Comparando Hugo Dellien con Hugo Dellien
+Similar-> Jugadores recibidos: Hugo Dellien y Hugo Dellien
+Partido individual
+Comparacion Dellien y Dellien -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[2.37,1.53]
+Similar2-> Jugadores recibidos Hugo Dellien y Gregoire Barrere (Svr)
+Comparando Hugo Dellien con Gregoire Barrere
+Bet365-> Tipo apuesta(17th Game Winner) con colocacion incorrecta y juego 17th : Cotizaciones[2.00,1.72]
+Similar2-> Jugadores recibidos Hugo Dellien y Hugo Dellien (Svr)
+Comparando Hugo Dellien con Hugo Dellien
+Bet365-> Tipo apuesta(18th Game Winner) con colocacion correcta y juego 18th : Cotizaciones[1.20,4.33]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [2.37, 1.53], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-131")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-132")>]}, 25: {'cotizaciones': [1.72, 2.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-139")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-137")>]}, 26: {'cotizaciones': [1.2, 4.33], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-141")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-143")>]}}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 13 del set 2
+El juego actual es: 16
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[2.7,1.38]
+Margenes: [1.7252396166134187,4.437299035369775]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.7252396166134187, 4.437299035369775]
+Se ha encontrado apuesta en bet365({'cotizaciones': [2.37, 1.53], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-131")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-132")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Winner
+Se esta comprobando el juego: 17 con 16
+Betfair-> Tipo apuesta: Set 2 Game 4 Winner Cotizaciones[3.25,1.28]
+Margenes: [1.5568862275449102,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [25, 1.5568862275449102, 5.9259259259259265]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.72, 2.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-139")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-137")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 2.0 Dinero a apostar: 15.0 Beneficios: 30
+SURE BET
+['Gregoire', 'Barrere', '(Svr)', 'to', 'win', '17th', 'game']
+Betfair hace click en apostar
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Winner
+Se esta comprobando el juego: 18 con 16
+Betfair-> Tipo apuesta: Set 2 Game 5 Winner Cotizaciones[1.2,4.0]
+Margenes: [8.571428571428577,1.4285714285714286]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [26, 8.571428571428577, 1.4285714285714286]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.2, 4.33], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-141")>, <selenium.webdriver.remote.webelement.WebElement (session="46d2c020f27d49c2e630201d18e91099", element="0.7317443825712224-143")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Winner
+Se esta comprobando el juego: 19 con 16
+Betfair-> Tipo apuesta: Set 2 Game 6 Winner Cotizaciones[4.0,1.2]
+Margenes: [1.4285714285714286,8.571428571428577]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [27, 1.4285714285714286, 8.571428571428577]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.38,2.75]
+Margenes: [4.437299035369775,1.7054263565891474]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 4.437299035369775, 1.7054263565891474]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 3, 4
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Hugo Dellien to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 3.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 6 5.5
+Betfair, enviado fin de apuestas

@@ -1,0 +1,121 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Granollers/Lopez
+Comparando Marton Fucsovics con Granollers/Lopez
+Similar-> Jugadores recibidos: Marton Fucsovics y Granollers/Lopez
+El segundo jugador es partido de dobles
+Comparando Cameron Norrie con Granollers/Lopez
+Similar-> Jugadores recibidos: Cameron Norrie y Granollers/Lopez
+El segundo jugador es partido de dobles
+Comparando Felix Auger Aliassime con Granollers/Lopez
+Similar-> Jugadores recibidos: Felix Auger Aliassime y Granollers/Lopez
+El segundo jugador es partido de dobles
+Comparando Alexander Zverev con Granollers/Lopez
+Similar-> Jugadores recibidos: Alexander Zverev y Granollers/Lopez
+El segundo jugador es partido de dobles
+Comparando Taylor Fritz con Granollers/Lopez
+Similar-> Jugadores recibidos: Taylor Fritz y Granollers/Lopez
+El segundo jugador es partido de dobles
+Comparando Diego Schwartzman con Granollers/Lopez
+Similar-> Jugadores recibidos: Diego Schwartzman y Granollers/Lopez
+El segundo jugador es partido de dobles
+Comparando Mektic/Skugor con Granollers/Lopez
+Similar-> Jugadores recibidos: Mektic/Skugor y Granollers/Lopez
+Partido de dobles
+Comparacion Mektic y Granollers -> 0.0
+Comparacion Skugor y Lopez -> 0.0
+Comparando Khachanov/Lopez con Granollers/Lopez
+Similar-> Jugadores recibidos: Khachanov/Lopez y Granollers/Lopez
+Partido de dobles
+Comparacion Khachanov y Granollers -> 0.045454545454545456
+Comparacion Lopez y Lopez -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Betfair empieza a enviar estadisticas a bet365
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.80,1.95]
+Similar2-> Jugadores recibidos Khachanov/Lopez y Khachanov/Lopez (Svr)
+Comparando Khachanov/Lopez con Khachanov/Lopez
+Bet365-> Tipo apuesta(3rd Game Winner) con colocacion correcta y juego 3rd : Cotizaciones[1.33,3.25]
+Nos encontramos en el juego 13 del set 2
+El juego actual es: 18
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[3.5,1.24]
+Margenes: [1.5053763440860217,6.9662921348314635]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.8, 1.95], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="99dd01695cde2826d3745c9fb95efa3a", element="0.4262420547639103-97")>, <selenium.webdriver.remote.webelement.WebElement (session="99dd01695cde2826d3745c9fb95efa3a", element="0.4262420547639103-98")>]}, 11: {'cotizaciones': [1.33, 3.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="99dd01695cde2826d3745c9fb95efa3a", element="0.4262420547639103-103")>, <selenium.webdriver.remote.webelement.WebElement (session="99dd01695cde2826d3745c9fb95efa3a", element="0.4262420547639103-105")>]}}
+Bet365, recibido tipo apuesta: [1, 1.5053763440860217, 6.9662921348314635]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.8, 1.95], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="99dd01695cde2826d3745c9fb95efa3a", element="0.4262420547639103-97")>, <selenium.webdriver.remote.webelement.WebElement (session="99dd01695cde2826d3745c9fb95efa3a", element="0.4262420547639103-98")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 1.95 Dinero a apostar: 15.38 Beneficios: 30
+SURE BET
+Betfair hace click en apostar
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Winner
+Se esta comprobando el juego: 19 con 18
+Betfair-> Tipo apuesta: Set 2 Game 6 Winner Cotizaciones[6.25,1.08]
+Margenes: [1.2658227848101267,41.538461538461505]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [27, 1.2658227848101267, 41.538461538461505]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Winner
+Se esta comprobando el juego: 20 con 18
+Betfair-> Tipo apuesta: Set 2 Game 7 Winner Cotizaciones[1.3,3.2]
+Margenes: [5.531914893617024,1.5686274509803921]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [28, 5.531914893617024, 1.5686274509803921]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Winner
+Se esta comprobando el juego: 21 con 18
+Betfair-> Tipo apuesta: Set 2 Game 8 Winner Cotizaciones[3.5,1.25]
+Margenes: [1.5053763440860217,6.666666666666667]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [29, 1.5053763440860217, 6.666666666666667]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.82,1.82]
+Margenes: [2.496570644718793,2.496570644718793]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.496570644718793, 2.496570644718793]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 6, 7
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Granollers / Lopez to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Game Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Total Match Games 23.5
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Granollers / Lopez Total Games 11.5
+Betfair, tipo de apuesta antes de comprobar: Kubot / Melo Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: 2nd Set Score after 6 Games
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 3.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -2.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas

@@ -1,0 +1,387 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Escobar / Martinez
+Comparando Paolo Lorenzi con Escobar / Martinez
+Similar-> Jugadores recibidos: Paolo Lorenzi y Escobar / Martinez
+El segundo jugador es partido de dobles
+Comparando Andrea Collarini con Escobar / Martinez
+Similar-> Jugadores recibidos: Andrea Collarini y Escobar / Martinez
+El segundo jugador es partido de dobles
+Comparando Cuevas/Gomez con Escobar / Martinez
+Similar-> Jugadores recibidos: Cuevas/Gomez y Escobar / Martinez
+Partido de dobles
+Comparacion Cuevas y Escobar -> 0.0
+Comparacion Gomez y Martinez -> 0.13333333333333333
+Comparando Monroe/Roelofse con Escobar / Martinez
+Similar-> Jugadores recibidos: Monroe/Roelofse y Escobar / Martinez
+Partido de dobles
+Comparacion Monroe y Escobar -> 0.0
+Comparacion Roelofse y Martinez -> 0.0
+Comparando Shane/Song con Escobar / Martinez
+Similar-> Jugadores recibidos: Shane/Song y Escobar / Martinez
+Partido de dobles
+Comparacion Shane y Escobar -> 0.0
+Comparacion Song y Martinez -> 0.0
+Comparando Goransson/Reese con Escobar / Martinez
+Similar-> Jugadores recibidos: Goransson/Reese y Escobar / Martinez
+Partido de dobles
+Comparacion Goransson y Escobar -> 0.0
+Comparacion Reese y Martinez -> 0.0
+Comparando Bains/Taylor con Escobar / Martinez
+Similar-> Jugadores recibidos: Bains/Taylor y Escobar / Martinez
+Partido de dobles
+Comparacion Bains y Escobar -> 0.0
+Comparacion Taylor y Martinez -> 0.0
+Comparando Andrianjafitrimo/Yerolymos con Escobar / Martinez
+Similar-> Jugadores recibidos: Andrianjafitrimo/Yerolymos y Escobar / Martinez
+Partido de dobles
+Comparacion Andrianjafitrimo y Escobar -> 0.0
+Comparacion Yerolymos y Martinez -> 0.0
+Comparando Arcangioli/Lechemia con Escobar / Martinez
+Similar-> Jugadores recibidos: Arcangioli/Lechemia y Escobar / Martinez
+Partido de dobles
+Comparacion Arcangioli y Escobar -> 0.0
+Comparacion Lechemia y Martinez -> 0.0
+Comparando Bua/Mdlulwa con Escobar / Martinez
+Similar-> Jugadores recibidos: Bua/Mdlulwa y Escobar / Martinez
+Partido de dobles
+Comparacion Bua y Escobar -> 0.0
+Comparacion Mdlulwa y Martinez -> 0.05555555555555555
+Comparando Ann Li con Escobar / Martinez
+Similar-> Jugadores recibidos: Ann Li y Escobar / Martinez
+El segundo jugador es partido de dobles
+Comparando Arianne Hartono con Escobar / Martinez
+Similar-> Jugadores recibidos: Arianne Hartono y Escobar / Martinez
+El segundo jugador es partido de dobles
+Comparando Carvajal/Torres Murcia con Escobar / Martinez
+Similar-> Jugadores recibidos: Carvajal/Torres Murcia y Escobar / Martinez
+Partido de dobles
+Comparacion Carvajal y Escobar -> 0.0
+Comparacion Torres y Martinez -> 0.0
+Comparando Becerra/Y Medina con Escobar / Martinez
+Similar-> Jugadores recibidos: Becerra/Y Medina y Escobar / Martinez
+Partido de dobles
+Comparacion Becerra y Escobar -> 0.0
+Comparacion Y y Martinez -> 0.0
+Comparando Bueno/Plazas con Escobar / Martinez
+Similar-> Jugadores recibidos: Bueno/Plazas y Escobar / Martinez
+Partido de dobles
+Comparacion Bueno y Escobar -> 0.0
+Comparacion Plazas y Martinez -> 0.0
+Comparando Gabriela Giraldo/Macias con Escobar / Martinez
+Similar-> Jugadores recibidos: Gabriela Giraldo/Macias y Escobar / Martinez
+Partido de dobles
+Comparacion Gabriela y Escobar -> 0.0
+Comparacion Macias y Martinez -> 0.125
+Comparando Boren/Closs con Escobar / Martinez
+Similar-> Jugadores recibidos: Boren/Closs y Escobar / Martinez
+Partido de dobles
+Comparacion Boren y Escobar -> 0.0
+Comparacion Closs y Martinez -> 0.0
+Comparando Beck/Collins con Escobar / Martinez
+Similar-> Jugadores recibidos: Beck/Collins y Escobar / Martinez
+Partido de dobles
+Comparacion Beck y Escobar -> 0.0
+Comparacion Collins y Martinez -> 0.0
+Comparando Carrillo Marin/Kent con Escobar / Martinez
+Similar-> Jugadores recibidos: Carrillo Marin/Kent y Escobar / Martinez
+Partido de dobles
+Comparacion Carrillo y Escobar -> 0.0
+Comparacion Kent y Martinez -> 0.0
+Comparando Stuart/Washington con Escobar / Martinez
+Similar-> Jugadores recibidos: Stuart/Washington y Escobar / Martinez
+Partido de dobles
+Comparacion Stuart y Escobar -> 0.0
+Comparacion Washington y Martinez -> 0.0
+Comparando Tran/Tran con Escobar / Martinez
+Similar-> Jugadores recibidos: Tran/Tran y Escobar / Martinez
+Partido de dobles
+Comparacion Tran y Escobar -> 0.0
+Comparacion Tran y Martinez -> 0.0
+Comparando Bouzo Zanotti/Moreno Barranquero con Escobar / Martinez
+Similar-> Jugadores recibidos: Bouzo Zanotti/Moreno Barranquero y Escobar / Martinez
+Partido de dobles
+Comparacion Bouzo y Escobar -> 0.0
+Comparacion Moreno y Martinez -> 0.058823529411764705
+Comparando Yuliana Monroy con Escobar / Martinez
+Similar-> Jugadores recibidos: Yuliana Monroy y Escobar / Martinez
+El segundo jugador es partido de dobles
+Comparando Carla Lucero con Escobar / Martinez
+Similar-> Jugadores recibidos: Carla Lucero y Escobar / Martinez
+El segundo jugador es partido de dobles
+Comparando Franco/Mejia con Escobar / Martinez
+Similar-> Jugadores recibidos: Franco/Mejia y Escobar / Martinez
+Partido de dobles
+Comparacion Franco y Escobar -> 0.0
+Comparacion Mejia y Martinez -> 0.0625
+Comparando Bogo/Naser con Escobar / Martinez
+Similar-> Jugadores recibidos: Bogo/Naser y Escobar / Martinez
+Partido de dobles
+Comparacion Bogo y Escobar -> 0.0
+Comparacion Naser y Martinez -> 0.0
+Comparando Glozman/Gullickson con Escobar / Martinez
+Similar-> Jugadores recibidos: Glozman/Gullickson y Escobar / Martinez
+Partido de dobles
+Comparacion Glozman y Escobar -> 0.0
+Comparacion Gullickson y Martinez -> 0.0
+Comparando Hradecka/Kawa con Escobar / Martinez
+Similar-> Jugadores recibidos: Hradecka/Kawa y Escobar / Martinez
+Partido de dobles
+Comparacion Hradecka y Escobar -> 0.0
+Comparacion Kawa y Martinez -> 0.0
+Comparando Escobar/Martinez con Escobar / Martinez
+Similar-> Jugadores recibidos: Escobar/Martinez y Escobar / Martinez
+Partido de dobles
+Comparacion Escobar y Escobar -> 1.0
+Comparacion Martinez y Martinez -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[2.37,1.53]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [2.37, 1.53], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-77")>, <selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-78")>]}}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 9 del set 2
+El juego actual es: 16
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[3.0,1.3]
+Margenes: [1.621621621621622,5.531914893617024]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.621621621621622, 5.531914893617024]
+Se ha encontrado apuesta en bet365({'cotizaciones': [2.37, 1.53], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-77")>, <selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-78")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Winner
+Se esta comprobando el juego: 17 con 16
+Betfair-> Tipo apuesta: Set 2 Game 8 Winner Cotizaciones[5.5,1.09]
+Margenes: [1.3017751479289943,30.7042253521126]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [25, 1.3017751479289943, 30.7042253521126]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 Winner
+Se esta comprobando el juego: 18 con 16
+Betfair-> Tipo apuesta: Set 2 Game 9 Winner Cotizaciones[1.24,3.5]
+Margenes: [6.9662921348314635,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [26, 6.9662921348314635, 1.5053763440860217]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.66,2.1]
+Margenes: [2.876949740034662,2.1105527638190957]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.876949740034662, 2.1105527638190957]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 7, 8
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Escobar / Martinez to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Miedler/Ofner
+Comparando Paolo Lorenzi con Miedler/Ofner
+Similar-> Jugadores recibidos: Paolo Lorenzi y Miedler/Ofner
+El segundo jugador es partido de dobles
+Comparando Andrea Collarini con Miedler/Ofner
+Similar-> Jugadores recibidos: Andrea Collarini y Miedler/Ofner
+El segundo jugador es partido de dobles
+Comparando Cuevas/Gomez con Miedler/Ofner
+Similar-> Jugadores recibidos: Cuevas/Gomez y Miedler/Ofner
+Partido de dobles
+Comparacion Cuevas y Miedler -> 0.0
+Comparacion Gomez y Ofner -> 0.0
+Comparando Monroe/Roelofse con Miedler/Ofner
+Similar-> Jugadores recibidos: Monroe/Roelofse y Miedler/Ofner
+Partido de dobles
+Comparacion Monroe y Miedler -> 0.0625
+Comparacion Roelofse y Ofner -> 0.0
+Comparando Shane/Song con Miedler/Ofner
+Similar-> Jugadores recibidos: Shane/Song y Miedler/Ofner
+Partido de dobles
+Comparacion Shane y Miedler -> 0.0
+Comparacion Song y Ofner -> 0.0
+Comparando Goransson/Reese con Miedler/Ofner
+Similar-> Jugadores recibidos: Goransson/Reese y Miedler/Ofner
+Partido de dobles
+Comparacion Goransson y Miedler -> 0.0
+Comparacion Reese y Ofner -> 0.0
+Comparando Bains/Taylor con Miedler/Ofner
+Similar-> Jugadores recibidos: Bains/Taylor y Miedler/Ofner
+Partido de dobles
+Comparacion Bains y Miedler -> 0.0
+Comparacion Taylor y Ofner -> 0.07142857142857142
+Comparando Andrianjafitrimo/Yerolymos con Miedler/Ofner
+Similar-> Jugadores recibidos: Andrianjafitrimo/Yerolymos y Miedler/Ofner
+Partido de dobles
+Comparacion Andrianjafitrimo y Miedler -> 0.0
+Comparacion Yerolymos y Ofner -> 0.0
+Comparando Arcangioli/Lechemia con Miedler/Ofner
+Similar-> Jugadores recibidos: Arcangioli/Lechemia y Miedler/Ofner
+Partido de dobles
+Comparacion Arcangioli y Miedler -> 0.0
+Comparacion Lechemia y Ofner -> 0.0
+Comparando Bua/Mdlulwa con Miedler/Ofner
+Similar-> Jugadores recibidos: Bua/Mdlulwa y Miedler/Ofner
+Partido de dobles
+Comparacion Bua y Miedler -> 0.0
+Comparacion Mdlulwa y Ofner -> 0.0
+Comparando Ann Li con Miedler/Ofner
+Similar-> Jugadores recibidos: Ann Li y Miedler/Ofner
+El segundo jugador es partido de dobles
+Comparando Arianne Hartono con Miedler/Ofner
+Similar-> Jugadores recibidos: Arianne Hartono y Miedler/Ofner
+El segundo jugador es partido de dobles
+Comparando Carvajal/Torres Murcia con Miedler/Ofner
+Similar-> Jugadores recibidos: Carvajal/Torres Murcia y Miedler/Ofner
+Partido de dobles
+Comparacion Carvajal y Miedler -> 0.0
+Comparacion Torres y Ofner -> 0.0
+Comparando Becerra/Y Medina con Miedler/Ofner
+Similar-> Jugadores recibidos: Becerra/Y Medina y Miedler/Ofner
+Partido de dobles
+Comparacion Becerra y Miedler -> 0.0
+Comparacion Y y Ofner -> 0.0
+Comparando Bueno/Plazas con Miedler/Ofner
+Similar-> Jugadores recibidos: Bueno/Plazas y Miedler/Ofner
+Partido de dobles
+Comparacion Bueno y Miedler -> 0.0
+Comparacion Plazas y Ofner -> 0.0
+Comparando Gabriela Giraldo/Macias con Miedler/Ofner
+Similar-> Jugadores recibidos: Gabriela Giraldo/Macias y Miedler/Ofner
+Partido de dobles
+Comparacion Gabriela y Miedler -> 0.0
+Comparacion Macias y Ofner -> 0.0
+Comparando Boren/Closs con Miedler/Ofner
+Similar-> Jugadores recibidos: Boren/Closs y Miedler/Ofner
+Partido de dobles
+Comparacion Boren y Miedler -> 0.0
+Comparacion Closs y Ofner -> 0.0
+Comparando Beck/Collins con Miedler/Ofner
+Similar-> Jugadores recibidos: Beck/Collins y Miedler/Ofner
+Partido de dobles
+Comparacion Beck y Miedler -> 0.0
+Comparacion Collins y Ofner -> 0.0
+Comparando Carrillo Marin/Kent con Miedler/Ofner
+Similar-> Jugadores recibidos: Carrillo Marin/Kent y Miedler/Ofner
+Partido de dobles
+Comparacion Carrillo y Miedler -> 0.0
+Comparacion Kent y Ofner -> 0.0
+Comparando Stuart/Washington con Miedler/Ofner
+Similar-> Jugadores recibidos: Stuart/Washington y Miedler/Ofner
+Partido de dobles
+Comparacion Stuart y Miedler -> 0.0
+Comparacion Washington y Ofner -> 0.0
+Comparando Tran/Tran con Miedler/Ofner
+Similar-> Jugadores recibidos: Tran/Tran y Miedler/Ofner
+Partido de dobles
+Comparacion Tran y Miedler -> 0.0
+Comparacion Tran y Ofner -> 0.0
+Comparando Bouzo Zanotti/Moreno Barranquero con Miedler/Ofner
+Similar-> Jugadores recibidos: Bouzo Zanotti/Moreno Barranquero y Miedler/Ofner
+Partido de dobles
+Comparacion Bouzo y Miedler -> 0.0
+Comparacion Moreno y Ofner -> 0.0
+Comparando Yuliana Monroy con Miedler/Ofner
+Similar-> Jugadores recibidos: Yuliana Monroy y Miedler/Ofner
+El segundo jugador es partido de dobles
+Comparando Carla Lucero con Miedler/Ofner
+Similar-> Jugadores recibidos: Carla Lucero y Miedler/Ofner
+El segundo jugador es partido de dobles
+Comparando Franco/Mejia con Miedler/Ofner
+Similar-> Jugadores recibidos: Franco/Mejia y Miedler/Ofner
+Partido de dobles
+Comparacion Franco y Miedler -> 0.0
+Comparacion Mejia y Ofner -> 0.0
+Comparando Bogo/Naser con Miedler/Ofner
+Similar-> Jugadores recibidos: Bogo/Naser y Miedler/Ofner
+Partido de dobles
+Comparacion Bogo y Miedler -> 0.0
+Comparacion Naser y Ofner -> 0.16666666666666666
+Comparando Glozman/Gullickson con Miedler/Ofner
+Similar-> Jugadores recibidos: Glozman/Gullickson y Miedler/Ofner
+Partido de dobles
+Comparacion Glozman y Miedler -> 0.0
+Comparacion Gullickson y Ofner -> 0.0
+Comparando Hradecka/Kawa con Miedler/Ofner
+Similar-> Jugadores recibidos: Hradecka/Kawa y Miedler/Ofner
+Partido de dobles
+Comparacion Hradecka y Miedler -> 0.0
+Comparacion Kawa y Ofner -> 0.0
+Comparando Escobar/Martinez con Miedler/Ofner
+Similar-> Jugadores recibidos: Escobar/Martinez y Miedler/Ofner
+Partido de dobles
+Comparacion Escobar y Miedler -> 0.058823529411764705
+Comparacion Martinez y Ofner -> 0.0
+Comparando Menendez-Maceiras/Zeballos con Miedler/Ofner
+Similar-> Jugadores recibidos: Menendez-Maceiras/Zeballos y Miedler/Ofner
+Partido de dobles
+Comparacion Menendez-Maceiras y Miedler -> 0.037037037037037035
+Comparacion Zeballos y Ofner -> 0.0
+Comparando Miedler/Ofner con Miedler/Ofner
+Similar-> Jugadores recibidos: Miedler/Ofner y Miedler/Ofner
+Partido de dobles
+Comparacion Miedler y Miedler -> 1.0
+Comparacion Ofner y Ofner -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[,]
+Similar2-> Jugadores recibidos Miedler/Ofner y Munoz/Perez Perez (Svr)
+Comparando Miedler/Ofner con Munoz/Perez Perez
+Bet365-> Tipo apuesta(8th Game Winner) con colocacion incorrecta y juego 8th : Cotizaciones[2.62,1.44]
+Similar2-> Jugadores recibidos Miedler/Ofner y Miedler/Ofner (Svr)
+Comparando Miedler/Ofner con Miedler/Ofner
+Bet365-> Tipo apuesta(9th Game Winner) con colocacion correcta y juego 9th : Cotizaciones[1.020,11.00]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 6 del set 2
+El juego actual es: 7
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.001,12.0]
+Margenes: [1000,1.153846153846154]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{16: {'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-196")>, <selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-194")>]}, 17: {'cotizaciones': [1.02, 11.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-198")>, <selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-200")>]}}
+Bet365, recibido tipo apuesta: [1, 1000, 1.153846153846154]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 2 Winner
+Se esta comprobando el juego: 8 con 7
+Betfair-> Tipo apuesta: Set 2 Game 2 Winner Cotizaciones[1.82,1.82]
+Margenes: [2.496570644718793,2.496570644718793]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [16, 2.496570644718793, 2.496570644718793]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-196")>, <selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-194")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 2.62 Dinero a apostar: 7.63 Beneficios: 30
+SURE BET
+['Munoz/Perez', 'Perez', '(Svr)', 'to', 'win', '8th', 'game']
+Betfair hace click en apostar
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 3 Winner
+Se esta comprobando el juego: 9 con 7
+Betfair-> Tipo apuesta: Set 2 Game 3 Winner Cotizaciones[1.06,6.5]
+Margenes: [151.4285714285737,1.2560386473429952]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [17, 151.4285714285737, 1.2560386473429952]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.02, 11.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-198")>, <selenium.webdriver.remote.webelement.WebElement (session="51a8cd4036896c97f3846f0ab219c81f", element="0.6943315206582696-200")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.03,10.0]
+Margenes: [1000,1.1764705882352942]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1.1764705882352942]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 1, 2
+Betfair, enviado fin de apuestas

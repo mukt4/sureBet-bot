@@ -1,0 +1,1297 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Roberto Cid Subervi
+Comparando Alexandre Muller con Roberto Cid Subervi
+Similar-> Jugadores recibidos: Alexandre Muller y Roberto Cid Subervi
+Partido individual
+Comparacion Muller y Cid -> 0.0
+Comparando John-Patrick Smith con Roberto Cid Subervi
+Similar-> Jugadores recibidos: John-Patrick Smith y Roberto Cid Subervi
+Partido individual
+Comparacion Smith y Cid -> 0.0
+Comparando Roberto Cid Subervi con Roberto Cid Subervi
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Roberto Cid Subervi
+Partido individual
+Comparacion Cid y Cid -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.50,1.28]
+Similar2-> Jugadores recibidos Roberto Cid Subervi y Ante Pavic (Svr)
+Comparando Roberto Cid Subervi con Ante Pavic
+Bet365-> Tipo apuesta(21st Game Winner) con colocacion incorrecta y juego 21st : Cotizaciones[1.10,6.50]
+Similar2-> Jugadores recibidos Roberto Cid Subervi y Roberto Cid Subervi (Svr)
+Comparando Roberto Cid Subervi con Roberto Cid Subervi
+Bet365-> Tipo apuesta(22nd Game Winner) con colocacion correcta y juego 22nd : Cotizaciones[1.16,4.50]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 16 del set 3
+El juego actual es: 20
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[4.0,1.18]
+Margenes: [1.4285714285714286,9.75206611570248]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.5, 1.28], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-66")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-67")>]}, 29: {'cotizaciones': [6.5, 1.1], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-71")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-69")>]}, 30: {'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-73")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-75")>]}}
+Bet365, recibido tipo apuesta: [1, 1.4285714285714286, 9.75206611570248]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.5, 1.28], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-66")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-67")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Winner
+Se esta comprobando el juego: 21 con 20
+Betfair-> Tipo apuesta: Set 3 Game 5 Winner Cotizaciones[6.0,1.08]
+Margenes: [1.2765957446808514,41.538461538461505]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [29, 1.2765957446808514, 41.538461538461505]
+Se ha encontrado apuesta en bet365({'cotizaciones': [6.5, 1.1], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-71")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-69")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 8 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Winner
+Se esta comprobando el juego: 22 con 20
+Betfair-> Tipo apuesta: Set 3 Game 6 Winner Cotizaciones[1.24,3.5]
+Margenes: [6.9662921348314635,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [30, 6.9662921348314635, 1.5053763440860217]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-73")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-75")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 Winner
+Se esta comprobando el juego: 23 con 20
+Betfair-> Tipo apuesta: Set 3 Game 7 Winner Cotizaciones[3.0,1.3]
+Margenes: [1.621621621621622,5.531914893617024]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [31, 1.621621621621622, 5.531914893617024]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 3 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Gerardo Lopez Villaseno
+Comparando Alexandre Muller con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Alexandre Muller y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Muller y Lopez -> 0.0
+Comparando John-Patrick Smith con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: John-Patrick Smith y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Smith y Lopez -> 0.0
+Comparando Roberto Cid Subervi con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Cid y Lopez -> 0.0
+Comparando Ante Pavic con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Ante Pavic y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Pavic y Lopez -> 0.0
+Comparando Gerardo L Villasenor con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Gerardo Lopez Villaseno
+Partido individual
+Comparacion L y Lopez -> 0.1111111111111111
+Comparando Joao Souza con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Joao Souza y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Souza y Lopez -> 0.0
+Comparando Evan Song con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Evan Song y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Song y Lopez -> 0.0
+Comparando Aleksandar Vukic con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Aleksandar Vukic y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Vukic y Lopez -> 0.0
+Comparando Goransson/Reese con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Goransson/Reese y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Huey/Martin con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Huey/Martin y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Krueger/Reid con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Krueger/Reid y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Berdusco/Braswell con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Berdusco/Braswell y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Bueno/James con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Bueno/James y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Baranovski/Wasserson con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Baranovski/Wasserson y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Monica A Solarte/Carvajal con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Monica A Solarte/Carvajal y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Alvarez/Toma con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Alvarez/Toma y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Rapp/Zhu con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Rapp/Zhu y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Bradley/Craig con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Bradley/Craig y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Brymer/Green con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Brymer/Green y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Farren/Langmo con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Farren/Langmo y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Armitano/Miyazaki con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Armitano/Miyazaki y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Reimchen/Wuarin con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Reimchen/Wuarin y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Di Lorenzo/Jaksic con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Di Lorenzo/Jaksic y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Chang/Mueller con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Chang/Mueller y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Gleason/Neel con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Gleason/Neel y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Okuno/Ruse con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Okuno/Ruse y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando T Pichardo/Villar con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: T Pichardo/Villar y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Corwin/Spec con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Corwin/Spec y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Alexandre Muller
+Comparando Alexandre Muller con Alexandre Muller
+Similar-> Jugadores recibidos: Alexandre Muller y Alexandre Muller
+Partido individual
+Comparacion Muller y Muller -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.16,4.50]
+Similar2-> Jugadores recibidos Alexandre Muller y John-Patrick Smith (Svr)
+Comparando Alexandre Muller con John-Patrick Smith
+Bet365-> Tipo apuesta(10th Game Winner) con colocacion incorrecta y juego 10th : Cotizaciones[7.50,1.071]
+Similar2-> Jugadores recibidos Alexandre Muller y Alexandre Muller (Svr)
+Comparando Alexandre Muller con Alexandre Muller
+Bet365-> Tipo apuesta(11th Game Winner) con colocacion correcta y juego 11th : Cotizaciones[1.30,3.40]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 0 del set 1
+El juego actual es: 9
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.18,4.0]
+Margenes: [9.75206611570248,1.4285714285714286]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-176")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-177")>]}, 18: {'cotizaciones': [1.071, 7.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-184")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-182")>]}, 19: {'cotizaciones': [1.3, 3.4], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-186")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-188")>]}}
+Bet365, recibido tipo apuesta: [1, 9.75206611570248, 1.4285714285714286]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-176")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-177")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 10 Winner
+Se esta comprobando el juego: 10 con 9
+Betfair-> Tipo apuesta: Set 1 Game 10 Winner Cotizaciones[1.18,4.0]
+Margenes: [9.75206611570248,1.4285714285714286]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [18, 9.75206611570248, 1.4285714285714286]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.071, 7.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-184")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-182")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 10 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 10 Point 5 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 10 Point 4 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 10 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 11 Winner
+Se esta comprobando el juego: 11 con 9
+Betfair-> Tipo apuesta: Set 1 Game 11 Winner Cotizaciones[1.29,3.1]
+Margenes: [5.720620842572061,1.5938303341902316]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [19, 5.720620842572061, 1.5938303341902316]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.3, 3.4], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-186")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-188")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 11 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 12 Winner
+Se esta comprobando el juego: 12 con 9
+Betfair-> Tipo apuesta: Set 1 Game 12 Winner Cotizaciones[2.6,1.4]
+Margenes: [1.7687074829931977,4.242424242424244]
+Betfair, enviado tipo apuestaBet365, recibido tipo apuesta: [20, 1.7687074829931977, 4.242424242424244]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 12 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Winner
+Betfair-> Tipo apuesta: Set 1 Winner Cotizaciones[1.005,10.5]
+Margenes: [1000,1.16991643454039]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1.16991643454039]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[ , ]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [5, 1000, 1000]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 10 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 11 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 12 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 1 Game 9, 10
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Alexandre Muller to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: John-Patrick Smith to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 1st Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 -4.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 -2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -5.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 -1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -7.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 6 0.5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Evan Song
+Comparando Alexandre Muller con Evan Song
+Similar-> Jugadores recibidos: Alexandre Muller y Evan Song
+Partido individual
+Comparacion Muller y Song -> 0.0
+Comparando John-Patrick Smith con Evan Song
+Similar-> Jugadores recibidos: John-Patrick Smith y Evan Song
+Partido individual
+Comparacion Smith y Song -> 0.08333333333333333
+Comparando Roberto Cid Subervi con Evan Song
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Evan Song
+Partido individual
+Comparacion Cid y Song -> 0.0
+Comparando Ante Pavic con Evan Song
+Similar-> Jugadores recibidos: Ante Pavic y Evan Song
+Partido individual
+Comparacion Pavic y Song -> 0.0
+Comparando Gerardo L Villasenor con Evan Song
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Evan Song
+Partido individual
+Comparacion L y Song -> 0.0
+Comparando Joao Souza con Evan Song
+Similar-> Jugadores recibidos: Joao Souza y Evan Song
+Partido individual
+Comparacion Souza y Song -> 0.18181818181818182
+Comparando Evan Song con Evan Song
+Similar-> Jugadores recibidos: Evan Song y Evan Song
+Partido individual
+Comparacion Song y Song -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[16.00,1.012]
+Similar2-> Jugadores recibidos Evan Song y Aleksandar Vukic (Svr)
+Comparando Evan Song con Aleksandar Vukic
+Bet365-> Tipo apuesta(22nd Game Winner) con colocacion incorrecta y juego 22nd : Cotizaciones[1.11,6.00]
+Similar2-> Jugadores recibidos Evan Song y Evan Song (Svr)
+Comparando Evan Song con Evan Song
+Betfair empieza a enviar estadisticas a bet365
+Bet365-> Tipo apuesta(23rd Game Winner) con colocacion correcta y juego 23rd : Cotizaciones[1.44,2.62]
+Nos encontramos en el juego 17 del set 3
+El juego actual es: 21
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[12.0,1.001]
+Margenes: [1.153846153846154,1000]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [16.0, 1.012], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-247")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-248")>]}, 30: {'cotizaciones': [6.0, 1.11], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-252")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-250")>]}, 31: {'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-254")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-256")>]}}
+Bet365, recibido tipo apuesta: [1, 1.153846153846154, 1000]
+Se ha encontrado apuesta en bet365({'cotizaciones': [16.0, 1.012], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-247")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-248")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Winner
+Se esta comprobando el juego: 22 con 21
+Betfair-> Tipo apuesta: Set 3 Game 5 Winner Cotizaciones[6.0,1.08]
+Margenes: [1.2765957446808514,41.538461538461505]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [30, 1.2765957446808514, 41.538461538461505]
+Se ha encontrado apuesta en bet365({'cotizaciones': [6.0, 1.11], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-252")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-250")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Winner
+Se esta comprobando el juego: 23 con 21
+Betfair-> Tipo apuesta: Set 3 Game 6 Winner Cotizaciones[1.55,2.2]
+Margenes: [3.280423280423281,2.0183486238532113]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [31, 3.280423280423281, 2.0183486238532113]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-254")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-256")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Krueger/Reid
+Comparando Alexandre Muller con Krueger/Reid
+Similar-> Jugadores recibidos: Alexandre Muller y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando John-Patrick Smith con Krueger/Reid
+Similar-> Jugadores recibidos: John-Patrick Smith y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Roberto Cid Subervi con Krueger/Reid
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Ante Pavic con Krueger/Reid
+Similar-> Jugadores recibidos: Ante Pavic y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Gerardo L Villasenor con Krueger/Reid
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Joao Souza con Krueger/Reid
+Similar-> Jugadores recibidos: Joao Souza y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Evan Song con Krueger/Reid
+Similar-> Jugadores recibidos: Evan Song y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Aleksandar Vukic con Krueger/Reid
+Similar-> Jugadores recibidos: Aleksandar Vukic y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Goransson/Reese con Krueger/Reid
+Similar-> Jugadores recibidos: Goransson/Reese y Krueger/Reid
+Partido de dobles
+Comparacion Goransson y Krueger -> 0.0
+Comparacion Reese y Reid -> 0.18181818181818182
+Comparando Huey/Martin con Krueger/Reid
+Similar-> Jugadores recibidos: Huey/Martin y Krueger/Reid
+Partido de dobles
+Comparacion Huey y Krueger -> 0.0
+Comparacion Martin y Reid -> 0.0
+Comparando Krueger/Reid con Krueger/Reid
+Similar-> Jugadores recibidos: Krueger/Reid y Krueger/Reid
+Partido de dobles
+Comparacion Krueger y Krueger -> 1.0
+Comparacion Reid y Reid -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.083,7.00]
+Similar2-> Jugadores recibidos Krueger/Reid y Krueger/Reid (Svr)
+Comparando Krueger/Reid con Krueger/Reid
+Bet365-> Tipo apuesta(24th Game Winner) con colocacion correcta y juego 24th : Cotizaciones[1.015,12.00]
+Betfair empieza a enviar estadisticas a bet365
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.083, 7.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-314")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-315")>]}, 32: {'cotizaciones': [1.015, 12.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-320")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-322")>]}}
+Nos encontramos en el juego 12 del set 2
+El juego actual es: 23
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.03,8.0]
+Margenes: [1000,1.2121212121212122]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1000, 1.2121212121212122]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.083, 7.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-314")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-315")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 12 Winner
+Se esta comprobando el juego: 24 con 23
+Betfair-> Tipo apuesta: Set 2 Game 12 Winner Cotizaciones[1.002,11.5]
+Margenes: [1000,1.1586901763224182]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [32, 1000, 1.1586901763224182]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.015, 12.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-320")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-322")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 12 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.4,2.75]
+Margenes: [4.242424242424244,1.7054263565891474]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 4.242424242424244, 1.7054263565891474]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Tiebreak Winner
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 11, 12
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Goransson/Reese
+Comparando Alexandre Muller con Goransson/Reese
+Similar-> Jugadores recibidos: Alexandre Muller y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando John-Patrick Smith con Goransson/Reese
+Similar-> Jugadores recibidos: John-Patrick Smith y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Roberto Cid Subervi con Goransson/Reese
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Ante Pavic con Goransson/Reese
+Similar-> Jugadores recibidos: Ante Pavic y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Gerardo L Villasenor con Goransson/Reese
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Joao Souza con Goransson/Reese
+Similar-> Jugadores recibidos: Joao Souza y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Evan Song con Goransson/Reese
+Similar-> Jugadores recibidos: Evan Song y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Aleksandar Vukic con Goransson/Reese
+Similar-> Jugadores recibidos: Aleksandar Vukic y Goransson/Reese
+El segundo jugador es partido de dobles
+Comparando Goransson/Reese con Goransson/Reese
+Similar-> Jugadores recibidos: Goransson/Reese y Goransson/Reese
+Partido de dobles
+Comparacion Goransson y Goransson -> 1.0
+Comparacion Reese y Reese -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.40,2.75]
+Similar2-> Jugadores recibidos Goransson/Reese y Goransson/Reese (Svr)
+Comparando Goransson/Reese con Goransson/Reese
+Bet365-> Tipo apuesta(14th Game Winner) con colocacion correcta y juego 14th : Cotizaciones[1.16,4.50]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 13
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.29,3.1]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.4, 2.75], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-386")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-387")>]}, 22: {'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-392")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-394")>]}}
+Margenes: [5.720620842572061,1.5938303341902316]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 5.720620842572061, 1.5938303341902316]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.4, 2.75], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-386")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-387")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Winner
+Se esta comprobando el juego: 14 con 13
+Betfair-> Tipo apuesta: Set 2 Game 4 Winner Cotizaciones[1.15,4.3]
+Margenes: [12.432432432432458,1.393841166936791]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [22, 12.432432432432458, 1.393841166936791]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-392")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-394")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Winner
+Se esta comprobando el juego: 15 con 13
+Betfair-> Tipo apuesta: Set 2 Game 5 Winner Cotizaciones[4.3,1.18]
+Margenes: [1.393841166936791,9.75206611570248]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [23, 1.393841166936791, 9.75206611570248]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[2.1,1.66]
+Margenes: [2.1105527638190957,2.876949740034662]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.1105527638190957, 2.876949740034662]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 3, 4
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Huey / Martin to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: M Andrade Solarte / M Carvajal
+Comparando Alexandre Muller con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Alexandre Muller y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando John-Patrick Smith con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: John-Patrick Smith y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Roberto Cid Subervi con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Roberto Cid Subervi y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Ante Pavic con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Ante Pavic y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Gerardo L Villasenor con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Gerardo L Villasenor y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Joao Souza con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Joao Souza y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Evan Song con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Evan Song y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Aleksandar Vukic con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Aleksandar Vukic y M Andrade Solarte / M Carvajal
+El segundo jugador es partido de dobles
+Comparando Goransson/Reese con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Goransson/Reese y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Goransson y Andrade -> 0.0
+Comparacion Reese y Carvajal -> 0.0
+Comparando Huey/Martin con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Huey/Martin y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Huey y Andrade -> 0.0
+Comparacion Martin y Carvajal -> 0.0
+Comparando Krueger/Reid con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Krueger/Reid y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Krueger y Andrade -> 0.0
+Comparacion Reid y Carvajal -> 0.0
+Comparando Berdusco/Braswell con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Berdusco/Braswell y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Berdusco y Andrade -> 0.0
+Comparacion Braswell y Carvajal -> 0.05263157894736842
+Comparando Bueno/James con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Bueno/James y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Bueno y Andrade -> 0.0
+Comparacion James y Carvajal -> 0.0
+Comparando Baranovski/Wasserson con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Baranovski/Wasserson y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Baranovski y Andrade -> 0.0
+Comparacion Wasserson y Carvajal -> 0.0
+Comparando Monica A Solarte/Carvajal con M Andrade Solarte / M Carvajal
+Similar-> Jugadores recibidos: Monica A Solarte/Carvajal y M Andrade Solarte / M Carvajal
+Partido de dobles
+Comparacion Monica y Andrade -> 0.0
+Comparacion Carvajal y Carvajal -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.004,29.00]
+Similar2-> Jugadores recibidos Monica A Solarte/Carvajal y Monica A Solarte/Carvajal (Svr)
+Comparando Monica A Solarte/Carvajal con Monica A Solarte/Carvajal
+Bet365-> Tipo apuesta(13th Game Winner) con colocacion correcta y juego 13th : Cotizaciones[1.28,3.50]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.004, 29.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-452")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-453")>]}, 21: {'cotizaciones': [1.28, 3.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-458")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-460")>]}}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 11
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.002,11.5]
+Margenes: [1000,1.1586901763224182]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1000, 1.1586901763224182]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.004, 29.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-452")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-453")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 2 Winner
+Se esta comprobando el juego: 12 con 11
+Betfair-> Tipo apuesta: Set 2 Game 2 Winner Cotizaciones[1.35,2.8]
+Margenes: [4.778761061946903,1.6867469879518073]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [20, 4.778761061946903, 1.6867469879518073]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 3 Winner
+Se esta comprobando el juego: 13 con 11
+Betfair-> Tipo apuesta: Set 2 Game 3 Winner Cotizaciones[1.28,3.5]
+Margenes: [5.9259259259259265,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [21, 5.9259259259259265, 1.5053763440860217]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.28, 3.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-458")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-460")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Winner
+Se esta comprobando el juego: 14 con 11
+Betfair-> Tipo apuesta: Set 2 Game 4 Winner Cotizaciones[1.6,2.1]
+Margenes: [3.076923076923077,2.1105527638190957]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [22, 3.076923076923077, 2.1105527638190957]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.04,9.5]
+Margenes: [1000,1.1838006230529594]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1.1838006230529594]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 1, 2
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 2, 3
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 2, 3
+Betfair, enviado fin de apuestas
+Partido suspendido o cerrado
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: A Rapp / E Zhu
+Comparando Alexandre Muller con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Alexandre Muller y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando John-Patrick Smith con A Rapp / E Zhu
+Similar-> Jugadores recibidos: John-Patrick Smith y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Roberto Cid Subervi con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Roberto Cid Subervi y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Ante Pavic con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Ante Pavic y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Gerardo L Villasenor con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Gerardo L Villasenor y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Joao Souza con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Joao Souza y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Evan Song con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Evan Song y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Aleksandar Vukic con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Aleksandar Vukic y A Rapp / E Zhu
+El segundo jugador es partido de dobles
+Comparando Goransson/Reese con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Goransson/Reese y A Rapp / E Zhu
+Partido de dobles
+Comparacion Goransson y Rapp -> 0.0
+Comparacion Reese y Zhu -> 0.0
+Comparando Huey/Martin con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Huey/Martin y A Rapp / E Zhu
+Partido de dobles
+Comparacion Huey y Rapp -> 0.0
+Comparacion Martin y Zhu -> 0.0
+Comparando Krueger/Reid con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Krueger/Reid y A Rapp / E Zhu
+Partido de dobles
+Comparacion Krueger y Rapp -> 0.0
+Comparacion Reid y Zhu -> 0.0
+Comparando Berdusco/Braswell con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Berdusco/Braswell y A Rapp / E Zhu
+Partido de dobles
+Comparacion Berdusco y Rapp -> 0.0
+Comparacion Braswell y Zhu -> 0.0
+Comparando Bueno/James con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Bueno/James y A Rapp / E Zhu
+Partido de dobles
+Comparacion Bueno y Rapp -> 0.0
+Comparacion James y Zhu -> 0.0
+Comparando Baranovski/Wasserson con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Baranovski/Wasserson y A Rapp / E Zhu
+Partido de dobles
+Comparacion Baranovski y Rapp -> 0.0
+Comparacion Wasserson y Zhu -> 0.0
+Comparando Monica A Solarte/Carvajal con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Monica A Solarte/Carvajal y A Rapp / E Zhu
+Partido de dobles
+Comparacion Monica y Rapp -> 0.0
+Comparacion Carvajal y Zhu -> 0.0
+Comparando Alvarez/Toma con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Alvarez/Toma y A Rapp / E Zhu
+Partido de dobles
+Comparacion Alvarez y Rapp -> 0.0
+Comparacion Toma y Zhu -> 0.0
+Comparando Rapp/Zhu con A Rapp / E Zhu
+Similar-> Jugadores recibidos: Rapp/Zhu y A Rapp / E Zhu
+Partido de dobles
+Comparacion Rapp y Rapp -> 1.0
+Comparacion Zhu y Zhu -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.50,2.50]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.5, 2.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-515")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-516")>]}}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 16 del set 3
+El juego actual es: 16
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.29,3.1]
+Margenes: [5.720620842572061,1.5938303341902316]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 5.720620842572061, 1.5938303341902316]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.5, 2.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-515")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-516")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 1 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 1 Point 5 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 1 Point 4 Winner
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: M Armitano / L Miyazaki Y
+Comparando Alexandre Muller con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Alexandre Muller y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando John-Patrick Smith con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: John-Patrick Smith y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Roberto Cid Subervi con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Roberto Cid Subervi y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Ante Pavic con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Ante Pavic y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Gerardo L Villasenor con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Gerardo L Villasenor y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Joao Souza con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Joao Souza y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Evan Song con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Evan Song y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Aleksandar Vukic con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Aleksandar Vukic y M Armitano / L Miyazaki Y
+El segundo jugador es partido de dobles
+Comparando Goransson/Reese con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Goransson/Reese y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Goransson y Armitano -> 0.0
+Comparacion Reese y Miyazaki -> 0.0
+Comparando Huey/Martin con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Huey/Martin y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Huey y Armitano -> 0.0
+Comparacion Martin y Miyazaki -> 0.058823529411764705
+Comparando Krueger/Reid con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Krueger/Reid y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Krueger y Armitano -> 0.0
+Comparacion Reid y Miyazaki -> 0.0
+Comparando Berdusco/Braswell con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Berdusco/Braswell y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Berdusco y Armitano -> 0.05263157894736842
+Comparacion Braswell y Miyazaki -> 0.0
+Comparando Bueno/James con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Bueno/James y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Bueno y Armitano -> 0.13333333333333333
+Comparacion James y Miyazaki -> 0.0
+Comparando Baranovski/Wasserson con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Baranovski/Wasserson y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Baranovski y Armitano -> 0.047619047619047616
+Comparacion Wasserson y Miyazaki -> 0.0
+Comparando Monica A Solarte/Carvajal con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Monica A Solarte/Carvajal y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Monica y Armitano -> 0.0
+Comparacion Carvajal y Miyazaki -> 0.0
+Comparando Alvarez/Toma con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Alvarez/Toma y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Alvarez y Armitano -> 0.05555555555555555
+Comparacion Toma y Miyazaki -> 0.0
+Comparando Rapp/Zhu con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Rapp/Zhu y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Rapp y Armitano -> 0.0
+Comparacion Zhu y Miyazaki -> 0.0
+Comparando Bradley/Craig con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Bradley/Craig y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Bradley y Armitano -> 0.0
+Comparacion Craig y Miyazaki -> 0.0
+Comparando Brymer/Green con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Brymer/Green y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Brymer y Armitano -> 0.0
+Comparacion Green y Miyazaki -> 0.0
+Comparando Farren/Langmo con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Farren/Langmo y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Farren y Armitano -> 0.0
+Comparacion Langmo y Miyazaki -> 0.0
+Comparando Armitano/Miyazaki con M Armitano / L Miyazaki Y
+Similar-> Jugadores recibidos: Armitano/Miyazaki y M Armitano / L Miyazaki Y
+Partido de dobles
+Comparacion Armitano y Armitano -> 1.0
+Comparacion Miyazaki y Miyazaki -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.001,41.00]
+Similar2-> Jugadores recibidos Armitano/Miyazaki y Reimchen/Wuarin (Svr)
+Comparando Armitano/Miyazaki con Reimchen/Wuarin
+Bet365-> Tipo apuesta(14th Game Winner) con colocacion incorrecta y juego 14th : Cotizaciones[2.37,1.53]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.001, 41.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-577")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-578")>]}, 22: {'cotizaciones': [1.53, 2.37], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-585")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-583")>]}}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 7 del set 2
+El juego actual es: 13
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.002,41.0]
+Margenes: [1000,1.080368906455863]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1000, 1.080368906455863]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.001, 41.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-577")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-578")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 7 Winner
+Se esta comprobando el juego: 14 con 13
+Betfair-> Tipo apuesta: Set 2 Game 7 Winner Cotizaciones[1.57,2.25]
+Margenes: [3.1943031536113935,1.9780219780219785]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [22, 3.1943031536113935, 1.9780219780219785]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.53, 2.37], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-585")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-583")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 8 Winner
+Se esta comprobando el juego: 15 con 13
+Betfair-> Tipo apuesta: Set 2 Game 8 Winner Cotizaciones[1.3,3.2]
+Margenes: [5.531914893617024,1.5686274509803921]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [23, 5.531914893617024, 1.5686274509803921]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.01,12.0]
+Margenes: [1000,1.153846153846154]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1.153846153846154]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 6, 7
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Roberto Cid Subervi
+Comparando Alexandre Muller con Roberto Cid Subervi
+Similar-> Jugadores recibidos: Alexandre Muller y Roberto Cid Subervi
+Partido individual
+Comparacion Muller y Cid -> 0.0
+Comparando John-Patrick Smith con Roberto Cid Subervi
+Similar-> Jugadores recibidos: John-Patrick Smith y Roberto Cid Subervi
+Partido individual
+Comparacion Smith y Cid -> 0.0
+Comparando Roberto Cid Subervi con Roberto Cid Subervi
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Roberto Cid Subervi
+Partido individual
+Comparacion Cid y Cid -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.50,1.28]
+Similar2-> Jugadores recibidos Roberto Cid Subervi y Ante Pavic (Svr)
+Comparando Roberto Cid Subervi con Ante Pavic
+Bet365-> Tipo apuesta(21st Game Winner) con colocacion incorrecta y juego 21st : Cotizaciones[1.10,6.50]
+Similar2-> Jugadores recibidos Roberto Cid Subervi y Roberto Cid Subervi (Svr)
+Comparando Roberto Cid Subervi con Roberto Cid Subervi
+Bet365-> Tipo apuesta(22nd Game Winner) con colocacion correcta y juego 22nd : Cotizaciones[1.16,4.50]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 16 del set 3
+El juego actual es: 20
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.5, 1.28], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-648")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-649")>]}, 29: {'cotizaciones': [6.5, 1.1], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-653")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-651")>]}, 30: {'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-655")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-657")>]}}
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[4.0,1.18]
+Margenes: [1.4285714285714286,9.75206611570248]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.4285714285714286, 9.75206611570248]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.5, 1.28], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-648")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-649")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Winner
+Se esta comprobando el juego: 21 con 20
+Betfair-> Tipo apuesta: Set 3 Game 5 Winner Cotizaciones[6.0,1.08]
+Margenes: [1.2765957446808514,41.538461538461505]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [29, 1.2765957446808514, 41.538461538461505]
+Se ha encontrado apuesta en bet365({'cotizaciones': [6.5, 1.1], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-653")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-651")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 8 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 9 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 10 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Winner
+Se esta comprobando el juego: 22 con 20
+Betfair-> Tipo apuesta: Set 3 Game 6 Winner Cotizaciones[1.24,3.5]
+Margenes: [6.9662921348314635,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [30, 6.9662921348314635, 1.5053763440860217]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.16, 4.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-655")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-657")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 Winner
+Se esta comprobando el juego: 23 con 20
+Betfair-> Tipo apuesta: Set 3 Game 7 Winner Cotizaciones[3.0,1.3]
+Margenes: [1.621621621621622,5.531914893617024]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [31, 1.621621621621622, 5.531914893617024]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 3 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game Handicap 2.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 -0.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 2 1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 -1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 4 2.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 -3.5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Gerardo Lopez Villaseno
+Comparando Alexandre Muller con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Alexandre Muller y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Muller y Lopez -> 0.0
+Comparando John-Patrick Smith con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: John-Patrick Smith y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Smith y Lopez -> 0.0
+Comparando Roberto Cid Subervi con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Cid y Lopez -> 0.0
+Comparando Ante Pavic con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Ante Pavic y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Pavic y Lopez -> 0.0
+Comparando Gerardo L Villasenor con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Gerardo Lopez Villaseno
+Partido individual
+Comparacion L y Lopez -> 0.1111111111111111
+Comparando Joao Souza con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Joao Souza y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Souza y Lopez -> 0.0
+Comparando Evan Song con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Evan Song y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Song y Lopez -> 0.0
+Comparando Aleksandar Vukic con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Aleksandar Vukic y Gerardo Lopez Villaseno
+Partido individual
+Comparacion Vukic y Lopez -> 0.0
+Comparando Goransson/Reese con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Goransson/Reese y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Huey/Martin con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Huey/Martin y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Krueger/Reid con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Krueger/Reid y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Berdusco/Braswell con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Berdusco/Braswell y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Bueno/James con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Bueno/James y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Baranovski/Wasserson con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Baranovski/Wasserson y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Monica A Solarte/Carvajal con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Monica A Solarte/Carvajal y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Alvarez/Toma con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Alvarez/Toma y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Rapp/Zhu con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Rapp/Zhu y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Bradley/Craig con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Bradley/Craig y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Brymer/Green con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Brymer/Green y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Farren/Langmo con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Farren/Langmo y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Armitano/Miyazaki con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Armitano/Miyazaki y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Reimchen/Wuarin con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Reimchen/Wuarin y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Di Lorenzo/Jaksic con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Di Lorenzo/Jaksic y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Chang/Mueller con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Chang/Mueller y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Gleason/Neel con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Gleason/Neel y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Okuno/Ruse con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Okuno/Ruse y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando T Pichardo/Villar con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: T Pichardo/Villar y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Comparando Corwin/Spec con Gerardo Lopez Villaseno
+Similar-> Jugadores recibidos: Corwin/Spec y Gerardo Lopez Villaseno
+El segundo jugador no es partido de dobles
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Alexandre Muller
+Comparando Alexandre Muller con Alexandre Muller
+Similar-> Jugadores recibidos: Alexandre Muller y Alexandre Muller
+Partido individual
+Comparacion Muller y Muller -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.12,5.50]
+Similar2-> Jugadores recibidos Alexandre Muller y Alexandre Muller (Svr)
+Comparando Alexandre Muller con Alexandre Muller
+Bet365-> Tipo apuesta(11th Game Winner) con colocacion correcta y juego 11th : Cotizaciones[1.30,3.40]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 10
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.12, 5.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-756")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-757")>]}, 19: {'cotizaciones': [1.3, 3.4], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-762")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-764")>]}}
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.09,5.5]
+Margenes: [30.7042253521126,1.3017751479289943]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 30.7042253521126, 1.3017751479289943]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.12, 5.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-756")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-757")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[ , ]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1000]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: John-Patrick Smith to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Evan Song
+Comparando Alexandre Muller con Evan Song
+Similar-> Jugadores recibidos: Alexandre Muller y Evan Song
+Partido individual
+Comparacion Muller y Song -> 0.0
+Comparando John-Patrick Smith con Evan Song
+Similar-> Jugadores recibidos: John-Patrick Smith y Evan Song
+Partido individual
+Comparacion Smith y Song -> 0.08333333333333333
+Comparando Roberto Cid Subervi con Evan Song
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Evan Song
+Partido individual
+Comparacion Cid y Song -> 0.0
+Comparando Ante Pavic con Evan Song
+Similar-> Jugadores recibidos: Ante Pavic y Evan Song
+Partido individual
+Comparacion Pavic y Song -> 0.0
+Comparando Gerardo L Villasenor con Evan Song
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Evan Song
+Partido individual
+Comparacion L y Song -> 0.0
+Comparando Joao Souza con Evan Song
+Similar-> Jugadores recibidos: Joao Souza y Evan Song
+Partido individual
+Comparacion Souza y Song -> 0.18181818181818182
+Comparando Evan Song con Evan Song
+Similar-> Jugadores recibidos: Evan Song y Evan Song
+Partido individual
+Comparacion Song y Song -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[16.00,1.012]
+Similar2-> Jugadores recibidos Evan Song y Aleksandar Vukic (Svr)
+Comparando Evan Song con Aleksandar Vukic
+Bet365-> Tipo apuesta(22nd Game Winner) con colocacion incorrecta y juego 22nd : Cotizaciones[1.083,7.00]
+Betfair empieza a enviar estadisticas a bet365
+Similar2-> Jugadores recibidos Evan Song y Evan Song (Svr)
+Comparando Evan Song con Evan Song
+Bet365-> Tipo apuesta(23rd Game Winner) con colocacion correcta y juego 23rd : Cotizaciones[1.44,2.62]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [16.0, 1.012], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-823")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-824")>]}, 30: {'cotizaciones': [7.0, 1.083], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-828")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-826")>]}, 31: {'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-830")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-832")>]}}
+Nos encontramos en el juego 17 del set 3
+El juego actual es: 21
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[11.0,1.002]
+Margenes: [1.1640211640211642,1000]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.1640211640211642, 1000]
+Se ha encontrado apuesta en bet365({'cotizaciones': [16.0, 1.012], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-823")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-824")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Winner
+Se esta comprobando el juego: 22 con 21
+Betfair-> Tipo apuesta: Set 3 Game 5 Winner Cotizaciones[3.2,1.28]
+Margenes: [1.5686274509803921,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [30, 1.5686274509803921, 5.9259259259259265]
+Se ha encontrado apuesta en bet365({'cotizaciones': [7.0, 1.083], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-828")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-826")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 7.0 Dinero a apostar: 4.29 Beneficios: 30
+SURE BET
+Betfair-> Excepcion: Message: no such element: Unable to locate element: {"method":"class name","selector":"stake"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Linux 4.15.0-47-generic x86_64)
+
+Bet365 no apuesta por culpa de betfair
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Point 6 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Winner
+Se esta comprobando el juego: 23 con 21
+Betfair-> Tipo apuesta: Set 3 Game 6 Winner Cotizaciones[1.55,2.2]
+Margenes: [3.280423280423281,2.0183486238532113]
+Betfair, enviado tipo apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 Winner
+Se esta comprobando el juego: 24 con 21
+Betfair-> Tipo apuesta: Set 3 Game 7 Winner Cotizaciones[3.7,1.2]
+Margenes: [1.47117296222664,8.571428571428577]
+Betfair, enviado tipo apuesta
+Obteniendo proxima apuesta
+Bet365, recibido tipo apuesta: [31, 3.280423280423281, 2.0183486238532113]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-830")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-832")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Bet365, recibido tipo apuesta: [32, 1.47117296222664, 8.571428571428577]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 3 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 3 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Set 3 Game Handicap 5.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 5.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 4.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 2.5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Krueger/Reid
+Comparando Alexandre Muller con Krueger/Reid
+Similar-> Jugadores recibidos: Alexandre Muller y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando John-Patrick Smith con Krueger/Reid
+Similar-> Jugadores recibidos: John-Patrick Smith y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Roberto Cid Subervi con Krueger/Reid
+Similar-> Jugadores recibidos: Roberto Cid Subervi y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Ante Pavic con Krueger/Reid
+Similar-> Jugadores recibidos: Ante Pavic y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Gerardo L Villasenor con Krueger/Reid
+Similar-> Jugadores recibidos: Gerardo L Villasenor y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Joao Souza con Krueger/Reid
+Similar-> Jugadores recibidos: Joao Souza y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Evan Song con Krueger/Reid
+Similar-> Jugadores recibidos: Evan Song y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Aleksandar Vukic con Krueger/Reid
+Similar-> Jugadores recibidos: Aleksandar Vukic y Krueger/Reid
+El segundo jugador es partido de dobles
+Comparando Goransson/Reese con Krueger/Reid
+Similar-> Jugadores recibidos: Goransson/Reese y Krueger/Reid
+Partido de dobles
+Comparacion Goransson y Krueger -> 0.0
+Comparacion Reese y Reid -> 0.18181818181818182
+Comparando Huey/Martin con Krueger/Reid
+Similar-> Jugadores recibidos: Huey/Martin y Krueger/Reid
+Partido de dobles
+Comparacion Huey y Krueger -> 0.0
+Comparacion Martin y Reid -> 0.0
+Comparando Krueger/Reid con Krueger/Reid
+Similar-> Jugadores recibidos: Krueger/Reid y Krueger/Reid
+Partido de dobles
+Comparacion Krueger y Krueger -> 1.0
+Comparacion Reid y Reid -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.040,10.00]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.04, 10.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-886")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-887")>]}}
+Bet365, recibido tipo apuesta: Goransson/Reese
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 13
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.29,3.1]
+Margenes: [5.720620842572061,1.5938303341902316]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 5.720620842572061, 1.5938303341902316]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.04, 10.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-886")>, <selenium.webdriver.remote.webelement.WebElement (session="1b3f898b21cd1b568b57f8d039470435", element="0.21923174905652054-887")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 10.0 Dinero a apostar: 3.0 Beneficios: 30
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Winner
+Se esta comprobando el juego: 14 con 13
+Betfair-> Tipo apuesta: Set 2 Game 4 Winner Cotizaciones[1.15,4.3]
+Margenes: [12.432432432432458,1.393841166936791]
+Betfair, enviado tipo apuesta
+SURE BET
+Bet365 no apuesta por culpa de betfair
+Betfair hace click en apostar
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 4 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Winner
+Se esta comprobando el juego: 15 con 13
+Betfair-> Tipo apuesta: Set 2 Game 5 Winner Cotizaciones[4.3,1.18]
+Margenes: [1.393841166936791,9.75206611570248]
+Betfair, enviado tipo apuesta

@@ -1,0 +1,1246 @@
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Novak Djokovic
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Cameron Norrie
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Federico Coria
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Thomaz Bellucci
+Comparando Cameron Norrie con Thomaz Bellucci
+Similar-> Jugadores recibidos: Cameron Norrie y Thomaz Bellucci
+Partido individual
+Comparacion Norrie y Bellucci -> 0.0
+Comparando Lorenzo Sonego con Thomaz Bellucci
+Similar-> Jugadores recibidos: Lorenzo Sonego y Thomaz Bellucci
+Partido individual
+Comparacion Sonego y Bellucci -> 0.0
+Comparando Novak Djokovic con Thomaz Bellucci
+Similar-> Jugadores recibidos: Novak Djokovic y Thomaz Bellucci
+Partido individual
+Comparacion Djokovic y Bellucci -> 0.0
+Comparando Taylor Fritz con Thomaz Bellucci
+Similar-> Jugadores recibidos: Taylor Fritz y Thomaz Bellucci
+Partido individual
+Comparacion Fritz y Bellucci -> 0.0
+Comparando Federico Coria con Thomaz Bellucci
+Similar-> Jugadores recibidos: Federico Coria y Thomaz Bellucci
+Partido individual
+Comparacion Coria y Bellucci -> 0.0
+Comparando Joao Domingues con Thomaz Bellucci
+Similar-> Jugadores recibidos: Joao Domingues y Thomaz Bellucci
+Partido individual
+Comparacion Domingues y Bellucci -> 0.0
+Comparando Pablo Cuevas con Thomaz Bellucci
+Similar-> Jugadores recibidos: Pablo Cuevas y Thomaz Bellucci
+Partido individual
+Comparacion Cuevas y Bellucci -> 0.0
+Comparando Viktor Troicki con Thomaz Bellucci
+Similar-> Jugadores recibidos: Viktor Troicki y Thomaz Bellucci
+Partido individual
+Comparacion Troicki y Bellucci -> 0.05555555555555555
+Comparando Thomaz Bellucci con Thomaz Bellucci
+Similar-> Jugadores recibidos: Thomaz Bellucci y Thomaz Bellucci
+Partido individual
+Comparacion Bellucci y Bellucci -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.40,1.30]
+Similar2-> Jugadores recibidos Thomaz Bellucci y Thomaz Bellucci (Svr)
+Comparando Thomaz Bellucci con Thomaz Bellucci
+Bet365-> Tipo apuesta(9th Game Winner) con colocacion correcta y juego 9th : Cotizaciones[1.36,3.00]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 8 del set 2
+El juego actual es: 8
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[2.8,1.35]
+Margenes: [1.6867469879518073,4.778761061946903]
+Betfair, enviado tipo apuesta
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.4, 1.3], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-86")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-87")>]}, 17: {'cotizaciones': [1.36, 3.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-92")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-94")>]}}
+Bet365, recibido tipo apuesta: [1, 1.6867469879518073, 4.778761061946903]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.4, 1.3], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-86")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-87")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.83,1.83]
+Margenes: [2.4779959377115777,2.4779959377115777]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.4779959377115777, 2.4779959377115777]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Thomaz Bellucci to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Ruben Bemelmans Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: Pablo Cuevas
+Comparando Cameron Norrie con Pablo Cuevas
+Similar-> Jugadores recibidos: Cameron Norrie y Pablo Cuevas
+Partido individual
+Comparacion Norrie y Cuevas -> 0.0
+Comparando Lorenzo Sonego con Pablo Cuevas
+Similar-> Jugadores recibidos: Lorenzo Sonego y Pablo Cuevas
+Partido individual
+Comparacion Sonego y Cuevas -> 0.0
+Comparando Novak Djokovic con Pablo Cuevas
+Similar-> Jugadores recibidos: Novak Djokovic y Pablo Cuevas
+Partido individual
+Comparacion Djokovic y Cuevas -> 0.0
+Comparando Taylor Fritz con Pablo Cuevas
+Similar-> Jugadores recibidos: Taylor Fritz y Pablo Cuevas
+Partido individual
+Comparacion Fritz y Cuevas -> 0.0
+Comparando Federico Coria con Pablo Cuevas
+Similar-> Jugadores recibidos: Federico Coria y Pablo Cuevas
+Partido individual
+Comparacion Coria y Cuevas -> 0.07142857142857142
+Comparando Joao Domingues con Pablo Cuevas
+Similar-> Jugadores recibidos: Joao Domingues y Pablo Cuevas
+Partido individual
+Comparacion Domingues y Cuevas -> 0.05555555555555555
+Comparando Pablo Cuevas con Pablo Cuevas
+Similar-> Jugadores recibidos: Pablo Cuevas y Pablo Cuevas
+Partido individual
+Comparacion Cuevas y Cuevas -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.10,6.50]
+Similar2-> Jugadores recibidos Pablo Cuevas y Viktor Troicki (Svr)
+Comparando Pablo Cuevas con Viktor Troicki
+Bet365-> Tipo apuesta(6th Game Winner) con colocacion incorrecta y juego 6th : Cotizaciones[1.36,3.00]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 0 del set 1
+El juego actual es: 5
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.05,7.0]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.1, 6.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-183")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-184")>]}, 14: {'cotizaciones': [3.0, 1.36], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-191")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-189")>]}}
+Margenes: [1000,1.2389380530973453]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1000, 1.2389380530973453]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.1, 6.5], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-183")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-184")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Winner
+Se esta comprobando el juego: 6 con 5
+Betfair-> Tipo apuesta: Set 1 Game 6 Winner Cotizaciones[2.7,1.38]
+Margenes: [1.7252396166134187,4.437299035369775]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [14, 1.7252396166134187, 4.437299035369775]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.0, 1.36], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-191")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-189")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Winner
+Se esta comprobando el juego: 7 con 5
+Betfair-> Tipo apuesta: Set 1 Game 7 Winner Cotizaciones[1.12,5.0]
+Margenes: [17.499999999999986,1.3333333333333333]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [15, 17.499999999999986, 1.3333333333333333]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 1 Winner
+Betfair-> Tipo apuesta: Set 1 Winner Cotizaciones[1.005,10.5]
+Margenes: [1000,1.16991643454039]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1000, 1.16991643454039]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[1.25,3.5]
+Margenes: [6.666666666666667,1.5053763440860217]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [5, 6.666666666666667, 1.5053763440860217]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 7 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 1 Game 5, 6
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: Pablo Cuevas to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Viktor Troicki to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: To lose 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: To win 1st set and win match
+Betfair, tipo de apuesta antes de comprobar: Pablo Cuevas Total Games 12.5
+Betfair, tipo de apuesta antes de comprobar: Viktor Troicki Total Games 6.5
+Betfair, tipo de apuesta antes de comprobar: 1st Set Score after 6 Games
+Betfair, tipo de apuesta antes de comprobar: Correct Score 1st Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game Handicap -3.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Total Sets 2.5
+Betfair, tipo de apuesta antes de comprobar: Player A Exact Games Winning Margin
+Betfair, tipo de apuesta antes de comprobar: Player B Exact Games Winning Margin
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: R Atik
+Comparando Cameron Norrie con R Atik
+Similar-> Jugadores recibidos: Cameron Norrie y R Atik
+Partido individual
+Comparacion Norrie y Atik -> 0.0
+Comparando Lorenzo Sonego con R Atik
+Similar-> Jugadores recibidos: Lorenzo Sonego y R Atik
+Partido individual
+Comparacion Sonego y Atik -> 0.0
+Comparando Novak Djokovic con R Atik
+Similar-> Jugadores recibidos: Novak Djokovic y R Atik
+Partido individual
+Comparacion Djokovic y Atik -> 0.0
+Comparando Taylor Fritz con R Atik
+Similar-> Jugadores recibidos: Taylor Fritz y R Atik
+Partido individual
+Comparacion Fritz y Atik -> 0.0
+Comparando Federico Coria con R Atik
+Similar-> Jugadores recibidos: Federico Coria y R Atik
+Partido individual
+Comparacion Coria y Atik -> 0.0
+Comparando Joao Domingues con R Atik
+Similar-> Jugadores recibidos: Joao Domingues y R Atik
+Partido individual
+Comparacion Domingues y Atik -> 0.0
+Comparando Pablo Cuevas con R Atik
+Similar-> Jugadores recibidos: Pablo Cuevas y R Atik
+Partido individual
+Comparacion Cuevas y Atik -> 0.0
+Comparando Viktor Troicki con R Atik
+Similar-> Jugadores recibidos: Viktor Troicki y R Atik
+Partido individual
+Comparacion Troicki y Atik -> 0.0
+Comparando Thomaz Bellucci con R Atik
+Similar-> Jugadores recibidos: Thomaz Bellucci y R Atik
+Partido individual
+Comparacion Bellucci y Atik -> 0.0
+Comparando Ruben Bemelmans con R Atik
+Similar-> Jugadores recibidos: Ruben Bemelmans y R Atik
+Partido individual
+Comparacion Bemelmans y Atik -> 0.0
+Comparando Giovanni Fonio con R Atik
+Similar-> Jugadores recibidos: Giovanni Fonio y R Atik
+Partido individual
+Comparacion Fonio y Atik -> 0.0
+Comparando Gabriele Bosio con R Atik
+Similar-> Jugadores recibidos: Gabriele Bosio y R Atik
+Partido individual
+Comparacion Bosio y Atik -> 0.0
+Comparando Danylo Kalenichenko con R Atik
+Similar-> Jugadores recibidos: Danylo Kalenichenko y R Atik
+Partido individual
+Comparacion Kalenichenko y Atik -> 0.0
+Comparando Jack Draper con R Atik
+Similar-> Jugadores recibidos: Jack Draper y R Atik
+Partido individual
+Comparacion Draper y Atik -> 0.0
+Comparando Fabien Reboul con R Atik
+Similar-> Jugadores recibidos: Fabien Reboul y R Atik
+Partido individual
+Comparacion Reboul y Atik -> 0.0
+Comparando Guy Orly Iradukunda con R Atik
+Similar-> Jugadores recibidos: Guy Orly Iradukunda y R Atik
+Partido individual
+Comparacion Orly y Atik -> 0.0
+Comparando Arturs Lazdins con R Atik
+Similar-> Jugadores recibidos: Arturs Lazdins y R Atik
+Partido individual
+Comparacion Lazdins y Atik -> 0.0
+Comparando Pol Toledo Bague con R Atik
+Similar-> Jugadores recibidos: Pol Toledo Bague y R Atik
+Partido individual
+Comparacion Toledo y Atik -> 0.0
+Comparando Tina Nadine Smith con R Atik
+Similar-> Jugadores recibidos: Tina Nadine Smith y R Atik
+Partido individual
+Comparacion Nadine y Atik -> 0.0
+Comparando Anastasia Zolotareva con R Atik
+Similar-> Jugadores recibidos: Anastasia Zolotareva y R Atik
+Partido individual
+Comparacion Zolotareva y Atik -> 0.0
+Comparando Aya El Sayed con R Atik
+Similar-> Jugadores recibidos: Aya El Sayed y R Atik
+Partido individual
+Comparacion El y Atik -> 0.0
+Comparando Ikumi Yamazaki con R Atik
+Similar-> Jugadores recibidos: Ikumi Yamazaki y R Atik
+Partido individual
+Comparacion Yamazaki y Atik -> 0.0
+Comparando Barbara Haas con R Atik
+Similar-> Jugadores recibidos: Barbara Haas y R Atik
+Partido individual
+Comparacion Haas y Atik -> 0.0
+Comparando Federica Bilardo con R Atik
+Similar-> Jugadores recibidos: Federica Bilardo y R Atik
+Partido individual
+Comparacion Bilardo y Atik -> 0.0
+Comparando Anastasia Grymalska con R Atik
+Similar-> Jugadores recibidos: Anastasia Grymalska y R Atik
+Partido individual
+Comparacion Grymalska y Atik -> 0.0
+Comparando Lucrezia Stefanini con R Atik
+Similar-> Jugadores recibidos: Lucrezia Stefanini y R Atik
+Partido individual
+Comparacion Stefanini y Atik -> 0.0
+Comparando Nik Razborsek con R Atik
+Similar-> Jugadores recibidos: Nik Razborsek y R Atik
+Partido individual
+Comparacion Razborsek y Atik -> 0.0625
+Comparando Franco Emanuel Egea con R Atik
+Similar-> Jugadores recibidos: Franco Emanuel Egea y R Atik
+Partido individual
+Comparacion Emanuel y Atik -> 0.0
+Comparando Emeline Dartron con R Atik
+Similar-> Jugadores recibidos: Emeline Dartron y R Atik
+Partido individual
+Comparacion Dartron y Atik -> 0.0
+Comparando Ana L De La Nuez con R Atik
+Similar-> Jugadores recibidos: Ana L De La Nuez y R Atik
+Partido individual
+Comparacion L y Atik -> 0.0
+Comparando Koller/Rusova con R Atik
+Similar-> Jugadores recibidos: Koller/Rusova y R Atik
+El segundo jugador no es partido de dobles
+Comparando Karregat/Wensveen con R Atik
+Similar-> Jugadores recibidos: Karregat/Wensveen y R Atik
+El segundo jugador no es partido de dobles
+Comparando Luikham/Ueda con R Atik
+Similar-> Jugadores recibidos: Luikham/Ueda y R Atik
+El segundo jugador no es partido de dobles
+Comparando Kajevic/Tilbuerger con R Atik
+Similar-> Jugadores recibidos: Kajevic/Tilbuerger y R Atik
+El segundo jugador no es partido de dobles
+Comparando Pirok/Pribylova con R Atik
+Similar-> Jugadores recibidos: Pirok/Pribylova y R Atik
+El segundo jugador no es partido de dobles
+Comparando Sezer/Vanlangendonck con R Atik
+Similar-> Jugadores recibidos: Sezer/Vanlangendonck y R Atik
+El segundo jugador no es partido de dobles
+Comparando Kubanova/Tomanova con R Atik
+Similar-> Jugadores recibidos: Kubanova/Tomanova y R Atik
+El segundo jugador no es partido de dobles
+Comparando Marculescu/Paykoc con R Atik
+Similar-> Jugadores recibidos: Marculescu/Paykoc y R Atik
+El segundo jugador no es partido de dobles
+Comparando Rita Atik con R Atik
+Similar-> Jugadores recibidos: Rita Atik y R Atik
+Partido individual
+Comparacion Atik y Atik -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[,]
+Similar2-> Jugadores recibidos Rita Atik y Rita Atik (Svr)
+Comparando Rita Atik con Rita Atik
+Bet365-> Tipo apuesta(14th Game Winner) con colocacion correcta y juego 14th : Cotizaciones[3.75,1.25]
+Similar2-> Jugadores recibidos Rita Atik y Sinead Lohan (Svr)
+Comparando Rita Atik con Sinead Lohan
+Bet365-> Tipo apuesta(15th Game Winner) con colocacion incorrecta y juego 15th : Cotizaciones[1.22,4.00]
+Bet-> Diccionario de apuestas completo
+{22: {'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-305")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-307")>]}, 23: {'cotizaciones': [4.0, 1.22], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-311")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-309")>]}}
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 9 del set 2
+El juego actual es: 13
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[50.0,1.0]
+Margenes: [1.075268817204301,1000]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.075268817204301, 1000]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Total Tie Breaks 1.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Winner
+Se esta comprobando el juego: 14 con 13
+Betfair-> Tipo apuesta: Set 2 Game 5 Winner Cotizaciones[2.65,1.4]
+Margenes: [1.7462932454695226,4.242424242424244]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [22, 1.7462932454695226, 4.242424242424244]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-305")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-307")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Winner
+Se esta comprobando el juego: 15 con 13
+Betfair-> Tipo apuesta: Set 2 Game 6 Winner Cotizaciones[3.25,1.28]
+Margenes: [1.5568862275449102,5.9259259259259265]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [23, 1.5568862275449102, 5.9259259259259265]
+Se ha encontrado apuesta en bet365({'cotizaciones': [4.0, 1.22], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-311")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-309")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 6.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 7.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 8.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 9.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 5 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 6 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 2 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: R Atik to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap 1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game Handicap 5.5
+Betfair, tipo de apuesta antes de comprobar: Tie Break in Match?
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 1 7.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 3 6.5
+Betfair, tipo de apuesta antes de comprobar: Alternative Game Handicap 5 4.5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: R Atik / L Qostal
+Comparando Cameron Norrie con R Atik / L Qostal
+Similar-> Jugadores recibidos: Cameron Norrie y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Lorenzo Sonego con R Atik / L Qostal
+Similar-> Jugadores recibidos: Lorenzo Sonego y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Novak Djokovic con R Atik / L Qostal
+Similar-> Jugadores recibidos: Novak Djokovic y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Taylor Fritz con R Atik / L Qostal
+Similar-> Jugadores recibidos: Taylor Fritz y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Federico Coria con R Atik / L Qostal
+Similar-> Jugadores recibidos: Federico Coria y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Joao Domingues con R Atik / L Qostal
+Similar-> Jugadores recibidos: Joao Domingues y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Pablo Cuevas con R Atik / L Qostal
+Similar-> Jugadores recibidos: Pablo Cuevas y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Viktor Troicki con R Atik / L Qostal
+Similar-> Jugadores recibidos: Viktor Troicki y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Thomaz Bellucci con R Atik / L Qostal
+Similar-> Jugadores recibidos: Thomaz Bellucci y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Ruben Bemelmans con R Atik / L Qostal
+Similar-> Jugadores recibidos: Ruben Bemelmans y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Giovanni Fonio con R Atik / L Qostal
+Similar-> Jugadores recibidos: Giovanni Fonio y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Gabriele Bosio con R Atik / L Qostal
+Similar-> Jugadores recibidos: Gabriele Bosio y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Danylo Kalenichenko con R Atik / L Qostal
+Similar-> Jugadores recibidos: Danylo Kalenichenko y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Jack Draper con R Atik / L Qostal
+Similar-> Jugadores recibidos: Jack Draper y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Fabien Reboul con R Atik / L Qostal
+Similar-> Jugadores recibidos: Fabien Reboul y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Guy Orly Iradukunda con R Atik / L Qostal
+Similar-> Jugadores recibidos: Guy Orly Iradukunda y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Arturs Lazdins con R Atik / L Qostal
+Similar-> Jugadores recibidos: Arturs Lazdins y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Pol Toledo Bague con R Atik / L Qostal
+Similar-> Jugadores recibidos: Pol Toledo Bague y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Tina Nadine Smith con R Atik / L Qostal
+Similar-> Jugadores recibidos: Tina Nadine Smith y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Anastasia Zolotareva con R Atik / L Qostal
+Similar-> Jugadores recibidos: Anastasia Zolotareva y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Aya El Sayed con R Atik / L Qostal
+Similar-> Jugadores recibidos: Aya El Sayed y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Ikumi Yamazaki con R Atik / L Qostal
+Similar-> Jugadores recibidos: Ikumi Yamazaki y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Barbara Haas con R Atik / L Qostal
+Similar-> Jugadores recibidos: Barbara Haas y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Federica Bilardo con R Atik / L Qostal
+Similar-> Jugadores recibidos: Federica Bilardo y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Anastasia Grymalska con R Atik / L Qostal
+Similar-> Jugadores recibidos: Anastasia Grymalska y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Lucrezia Stefanini con R Atik / L Qostal
+Similar-> Jugadores recibidos: Lucrezia Stefanini y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Nik Razborsek con R Atik / L Qostal
+Similar-> Jugadores recibidos: Nik Razborsek y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Franco Emanuel Egea con R Atik / L Qostal
+Similar-> Jugadores recibidos: Franco Emanuel Egea y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Emeline Dartron con R Atik / L Qostal
+Similar-> Jugadores recibidos: Emeline Dartron y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Ana L De La Nuez con R Atik / L Qostal
+Similar-> Jugadores recibidos: Ana L De La Nuez y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Koller/Rusova con R Atik / L Qostal
+Similar-> Jugadores recibidos: Koller/Rusova y R Atik / L Qostal
+Partido de dobles
+Comparacion Koller y Atik -> 0.0
+Comparacion Rusova y Qostal -> 0.0
+Comparando Karregat/Wensveen con R Atik / L Qostal
+Similar-> Jugadores recibidos: Karregat/Wensveen y R Atik / L Qostal
+Partido de dobles
+Comparacion Karregat y Atik -> 0.0
+Comparacion Wensveen y Qostal -> 0.0
+Comparando Luikham/Ueda con R Atik / L Qostal
+Similar-> Jugadores recibidos: Luikham/Ueda y R Atik / L Qostal
+Partido de dobles
+Comparacion Luikham y Atik -> 0.0
+Comparacion Ueda y Qostal -> 0.0
+Comparando Kajevic/Tilbuerger con R Atik / L Qostal
+Similar-> Jugadores recibidos: Kajevic/Tilbuerger y R Atik / L Qostal
+Partido de dobles
+Comparacion Kajevic y Atik -> 0.0
+Comparacion Tilbuerger y Qostal -> 0.0
+Comparando Pirok/Pribylova con R Atik / L Qostal
+Similar-> Jugadores recibidos: Pirok/Pribylova y R Atik / L Qostal
+Partido de dobles
+Comparacion Pirok y Atik -> 0.08333333333333333
+Comparacion Pribylova y Qostal -> 0.0
+Comparando Sezer/Vanlangendonck con R Atik / L Qostal
+Similar-> Jugadores recibidos: Sezer/Vanlangendonck y R Atik / L Qostal
+Partido de dobles
+Comparacion Sezer y Atik -> 0.0
+Comparacion Vanlangendonck y Qostal -> 0.0
+Comparando Kubanova/Tomanova con R Atik / L Qostal
+Similar-> Jugadores recibidos: Kubanova/Tomanova y R Atik / L Qostal
+Partido de dobles
+Comparacion Kubanova y Atik -> 0.0
+Comparacion Tomanova y Qostal -> 0.0
+Comparando Marculescu/Paykoc con R Atik / L Qostal
+Similar-> Jugadores recibidos: Marculescu/Paykoc y R Atik / L Qostal
+Partido de dobles
+Comparacion Marculescu y Atik -> 0.0
+Comparacion Paykoc y Qostal -> 0.0
+Comparando Rita Atik con R Atik / L Qostal
+Similar-> Jugadores recibidos: Rita Atik y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Sinead Lohan con R Atik / L Qostal
+Similar-> Jugadores recibidos: Sinead Lohan y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Gloire Mfoumouangana con R Atik / L Qostal
+Similar-> Jugadores recibidos: Gloire Mfoumouangana y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Donika Bashota con R Atik / L Qostal
+Similar-> Jugadores recibidos: Donika Bashota y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Magdalena Stoilkovska con R Atik / L Qostal
+Similar-> Jugadores recibidos: Magdalena Stoilkovska y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Ines Bekrar con R Atik / L Qostal
+Similar-> Jugadores recibidos: Ines Bekrar y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Maria Giorgia Farrugia Sacco con R Atik / L Qostal
+Similar-> Jugadores recibidos: Maria Giorgia Farrugia Sacco y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Anna Soffia Gronholm con R Atik / L Qostal
+Similar-> Jugadores recibidos: Anna Soffia Gronholm y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Niklas Guttau con R Atik / L Qostal
+Similar-> Jugadores recibidos: Niklas Guttau y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Karl Friberg con R Atik / L Qostal
+Similar-> Jugadores recibidos: Karl Friberg y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Sidane Pontjodikromo con R Atik / L Qostal
+Similar-> Jugadores recibidos: Sidane Pontjodikromo y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Comparando Alexander Shevchenko con R Atik / L Qostal
+Similar-> Jugadores recibidos: Alexander Shevchenko y R Atik / L Qostal
+El segundo jugador es partido de dobles
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: T Smith
+Comparando Cameron Norrie con T Smith
+Similar-> Jugadores recibidos: Cameron Norrie y T Smith
+Partido individual
+Comparacion Norrie y Smith -> 0.0
+Comparando Lorenzo Sonego con T Smith
+Similar-> Jugadores recibidos: Lorenzo Sonego y T Smith
+Partido individual
+Comparacion Sonego y Smith -> 0.07142857142857142
+Comparando Novak Djokovic con T Smith
+Similar-> Jugadores recibidos: Novak Djokovic y T Smith
+Partido individual
+Comparacion Djokovic y Smith -> 0.0
+Comparando Taylor Fritz con T Smith
+Similar-> Jugadores recibidos: Taylor Fritz y T Smith
+Partido individual
+Comparacion Fritz y Smith -> 0.0
+Comparando Federico Coria con T Smith
+Similar-> Jugadores recibidos: Federico Coria y T Smith
+Partido individual
+Comparacion Coria y Smith -> 0.0
+Comparando Joao Domingues con T Smith
+Similar-> Jugadores recibidos: Joao Domingues y T Smith
+Partido individual
+Comparacion Domingues y Smith -> 0.0
+Comparando Pablo Cuevas con T Smith
+Similar-> Jugadores recibidos: Pablo Cuevas y T Smith
+Partido individual
+Comparacion Cuevas y Smith -> 0.0
+Comparando Viktor Troicki con T Smith
+Similar-> Jugadores recibidos: Viktor Troicki y T Smith
+Partido individual
+Comparacion Troicki y Smith -> 0.0
+Comparando Thomaz Bellucci con T Smith
+Similar-> Jugadores recibidos: Thomaz Bellucci y T Smith
+Partido individual
+Comparacion Bellucci y Smith -> 0.0
+Comparando Ruben Bemelmans con T Smith
+Similar-> Jugadores recibidos: Ruben Bemelmans y T Smith
+Partido individual
+Comparacion Bemelmans y Smith -> 0.0
+Comparando Giovanni Fonio con T Smith
+Similar-> Jugadores recibidos: Giovanni Fonio y T Smith
+Partido individual
+Comparacion Fonio y Smith -> 0.0
+Comparando Gabriele Bosio con T Smith
+Similar-> Jugadores recibidos: Gabriele Bosio y T Smith
+Partido individual
+Comparacion Bosio y Smith -> 0.0
+Comparando Danylo Kalenichenko con T Smith
+Similar-> Jugadores recibidos: Danylo Kalenichenko y T Smith
+Partido individual
+Comparacion Kalenichenko y Smith -> 0.0
+Comparando Jack Draper con T Smith
+Similar-> Jugadores recibidos: Jack Draper y T Smith
+Partido individual
+Comparacion Draper y Smith -> 0.0
+Comparando Fabien Reboul con T Smith
+Similar-> Jugadores recibidos: Fabien Reboul y T Smith
+Partido individual
+Comparacion Reboul y Smith -> 0.0
+Comparando Guy Orly Iradukunda con T Smith
+Similar-> Jugadores recibidos: Guy Orly Iradukunda y T Smith
+Partido individual
+Comparacion Orly y Smith -> 0.0
+Comparando Arturs Lazdins con T Smith
+Similar-> Jugadores recibidos: Arturs Lazdins y T Smith
+Partido individual
+Comparacion Lazdins y Smith -> 0.0
+Comparando Pol Toledo Bague con T Smith
+Similar-> Jugadores recibidos: Pol Toledo Bague y T Smith
+Partido individual
+Comparacion Toledo y Smith -> 0.0
+Comparando Tina Nadine Smith con T Smith
+Similar-> Jugadores recibidos: Tina Nadine Smith y T Smith
+Partido individual
+Comparacion Nadine y Smith -> 0.0
+Comparando Anastasia Zolotareva con T Smith
+Similar-> Jugadores recibidos: Anastasia Zolotareva y T Smith
+Partido individual
+Comparacion Zolotareva y Smith -> 0.0
+Comparando Aya El Sayed con T Smith
+Similar-> Jugadores recibidos: Aya El Sayed y T Smith
+Partido individual
+Comparacion El y Smith -> 0.0
+Comparando Ikumi Yamazaki con T Smith
+Similar-> Jugadores recibidos: Ikumi Yamazaki y T Smith
+Partido individual
+Comparacion Yamazaki y Smith -> 0.0
+Comparando Barbara Haas con T Smith
+Similar-> Jugadores recibidos: Barbara Haas y T Smith
+Partido individual
+Comparacion Haas y Smith -> 0.0
+Comparando Federica Bilardo con T Smith
+Similar-> Jugadores recibidos: Federica Bilardo y T Smith
+Partido individual
+Comparacion Bilardo y Smith -> 0.0
+Comparando Anastasia Grymalska con T Smith
+Similar-> Jugadores recibidos: Anastasia Grymalska y T Smith
+Partido individual
+Comparacion Grymalska y Smith -> 0.0
+Comparando Lucrezia Stefanini con T Smith
+Similar-> Jugadores recibidos: Lucrezia Stefanini y T Smith
+Partido individual
+Comparacion Stefanini y Smith -> 0.058823529411764705
+Comparando Nik Razborsek con T Smith
+Similar-> Jugadores recibidos: Nik Razborsek y T Smith
+Partido individual
+Comparacion Razborsek y Smith -> 0.0
+Comparando Franco Emanuel Egea con T Smith
+Similar-> Jugadores recibidos: Franco Emanuel Egea y T Smith
+Partido individual
+Comparacion Emanuel y Smith -> 0.0
+Comparando Emeline Dartron con T Smith
+Similar-> Jugadores recibidos: Emeline Dartron y T Smith
+Partido individual
+Comparacion Dartron y Smith -> 0.0
+Comparando Ana L De La Nuez con T Smith
+Similar-> Jugadores recibidos: Ana L De La Nuez y T Smith
+Partido individual
+Comparacion L y Smith -> 0.0
+Comparando Koller/Rusova con T Smith
+Similar-> Jugadores recibidos: Koller/Rusova y T Smith
+El segundo jugador no es partido de dobles
+Comparando Karregat/Wensveen con T Smith
+Similar-> Jugadores recibidos: Karregat/Wensveen y T Smith
+El segundo jugador no es partido de dobles
+Comparando Luikham/Ueda con T Smith
+Similar-> Jugadores recibidos: Luikham/Ueda y T Smith
+El segundo jugador no es partido de dobles
+Comparando Kajevic/Tilbuerger con T Smith
+Similar-> Jugadores recibidos: Kajevic/Tilbuerger y T Smith
+El segundo jugador no es partido de dobles
+Comparando Pirok/Pribylova con T Smith
+Similar-> Jugadores recibidos: Pirok/Pribylova y T Smith
+El segundo jugador no es partido de dobles
+Comparando Sezer/Vanlangendonck con T Smith
+Similar-> Jugadores recibidos: Sezer/Vanlangendonck y T Smith
+El segundo jugador no es partido de dobles
+Comparando Kubanova/Tomanova con T Smith
+Similar-> Jugadores recibidos: Kubanova/Tomanova y T Smith
+El segundo jugador no es partido de dobles
+Comparando Marculescu/Paykoc con T Smith
+Similar-> Jugadores recibidos: Marculescu/Paykoc y T Smith
+El segundo jugador no es partido de dobles
+Comparando Rita Atik con T Smith
+Similar-> Jugadores recibidos: Rita Atik y T Smith
+Partido individual
+Comparacion Atik y Smith -> 0.0
+Comparando Sinead Lohan con T Smith
+Similar-> Jugadores recibidos: Sinead Lohan y T Smith
+Partido individual
+Comparacion Lohan y Smith -> 0.0
+Comparando Gloire Mfoumouangana con T Smith
+Similar-> Jugadores recibidos: Gloire Mfoumouangana y T Smith
+Partido individual
+Comparacion Mfoumouangana y Smith -> 0.0
+Comparando Donika Bashota con T Smith
+Similar-> Jugadores recibidos: Donika Bashota y T Smith
+Partido individual
+Comparacion Bashota y Smith -> 0.0
+Comparando Magdalena Stoilkovska con T Smith
+Similar-> Jugadores recibidos: Magdalena Stoilkovska y T Smith
+Partido individual
+Comparacion Stoilkovska y Smith -> 0.05263157894736842
+Comparando Ines Bekrar con T Smith
+Similar-> Jugadores recibidos: Ines Bekrar y T Smith
+Partido individual
+Comparacion Bekrar y Smith -> 0.0
+Comparando Maria Giorgia Farrugia Sacco con T Smith
+Similar-> Jugadores recibidos: Maria Giorgia Farrugia Sacco y T Smith
+Partido individual
+Comparacion Giorgia y Smith -> 0.0
+Comparando Anna Soffia Gronholm con T Smith
+Similar-> Jugadores recibidos: Anna Soffia Gronholm y T Smith
+Partido individual
+Comparacion Soffia y Smith -> 0.07142857142857142
+Comparando Niklas Guttau con T Smith
+Similar-> Jugadores recibidos: Niklas Guttau y T Smith
+Partido individual
+Comparacion Guttau y Smith -> 0.0
+Comparando Karl Friberg con T Smith
+Similar-> Jugadores recibidos: Karl Friberg y T Smith
+Partido individual
+Comparacion Friberg y Smith -> 0.0
+Comparando Sidane Pontjodikromo con T Smith
+Similar-> Jugadores recibidos: Sidane Pontjodikromo y T Smith
+Partido individual
+Comparacion Pontjodikromo y Smith -> 0.0
+Comparando Alexander Shevchenko con T Smith
+Similar-> Jugadores recibidos: Alexander Shevchenko y T Smith
+Partido individual
+Comparacion Shevchenko y Smith -> 0.05555555555555555
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: A Koller / A Rusova
+Comparando Cameron Norrie con A Koller / A Rusova
+Similar-> Jugadores recibidos: Cameron Norrie y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Lorenzo Sonego con A Koller / A Rusova
+Similar-> Jugadores recibidos: Lorenzo Sonego y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Novak Djokovic con A Koller / A Rusova
+Similar-> Jugadores recibidos: Novak Djokovic y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Taylor Fritz con A Koller / A Rusova
+Similar-> Jugadores recibidos: Taylor Fritz y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Federico Coria con A Koller / A Rusova
+Similar-> Jugadores recibidos: Federico Coria y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Joao Domingues con A Koller / A Rusova
+Similar-> Jugadores recibidos: Joao Domingues y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Pablo Cuevas con A Koller / A Rusova
+Similar-> Jugadores recibidos: Pablo Cuevas y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Viktor Troicki con A Koller / A Rusova
+Similar-> Jugadores recibidos: Viktor Troicki y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Thomaz Bellucci con A Koller / A Rusova
+Similar-> Jugadores recibidos: Thomaz Bellucci y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Ruben Bemelmans con A Koller / A Rusova
+Similar-> Jugadores recibidos: Ruben Bemelmans y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Giovanni Fonio con A Koller / A Rusova
+Similar-> Jugadores recibidos: Giovanni Fonio y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Gabriele Bosio con A Koller / A Rusova
+Similar-> Jugadores recibidos: Gabriele Bosio y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Danylo Kalenichenko con A Koller / A Rusova
+Similar-> Jugadores recibidos: Danylo Kalenichenko y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Jack Draper con A Koller / A Rusova
+Similar-> Jugadores recibidos: Jack Draper y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Fabien Reboul con A Koller / A Rusova
+Similar-> Jugadores recibidos: Fabien Reboul y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Guy Orly Iradukunda con A Koller / A Rusova
+Similar-> Jugadores recibidos: Guy Orly Iradukunda y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Arturs Lazdins con A Koller / A Rusova
+Similar-> Jugadores recibidos: Arturs Lazdins y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Pol Toledo Bague con A Koller / A Rusova
+Similar-> Jugadores recibidos: Pol Toledo Bague y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Tina Nadine Smith con A Koller / A Rusova
+Similar-> Jugadores recibidos: Tina Nadine Smith y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Anastasia Zolotareva con A Koller / A Rusova
+Similar-> Jugadores recibidos: Anastasia Zolotareva y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Aya El Sayed con A Koller / A Rusova
+Similar-> Jugadores recibidos: Aya El Sayed y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Ikumi Yamazaki con A Koller / A Rusova
+Similar-> Jugadores recibidos: Ikumi Yamazaki y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Barbara Haas con A Koller / A Rusova
+Similar-> Jugadores recibidos: Barbara Haas y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Federica Bilardo con A Koller / A Rusova
+Similar-> Jugadores recibidos: Federica Bilardo y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Anastasia Grymalska con A Koller / A Rusova
+Similar-> Jugadores recibidos: Anastasia Grymalska y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Lucrezia Stefanini con A Koller / A Rusova
+Similar-> Jugadores recibidos: Lucrezia Stefanini y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Nik Razborsek con A Koller / A Rusova
+Similar-> Jugadores recibidos: Nik Razborsek y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Franco Emanuel Egea con A Koller / A Rusova
+Similar-> Jugadores recibidos: Franco Emanuel Egea y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Emeline Dartron con A Koller / A Rusova
+Similar-> Jugadores recibidos: Emeline Dartron y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Ana L De La Nuez con A Koller / A Rusova
+Similar-> Jugadores recibidos: Ana L De La Nuez y A Koller / A Rusova
+El segundo jugador es partido de dobles
+Comparando Koller/Rusova con A Koller / A Rusova
+Similar-> Jugadores recibidos: Koller/Rusova y A Koller / A Rusova
+Partido de dobles
+Comparacion Koller y Koller -> 1.0
+Comparacion Rusova y Rusova -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[3.75,1.25]
+Similar2-> Jugadores recibidos Koller/Rusova y Karregat/Wensveen (Svr)
+Comparando Koller/Rusova con Karregat/Wensveen
+Bet365-> Tipo apuesta(4th Game Winner) con colocacion incorrecta y juego 4th : Cotizaciones[1.20,4.33]
+Similar2-> Jugadores recibidos Koller/Rusova y Koller/Rusova (Svr)
+Comparando Koller/Rusova con Koller/Rusova
+Bet365-> Tipo apuesta(5th Game Winner) con colocacion correcta y juego 5th : Cotizaciones[1.72,2.00]
+Betfair empieza a enviar estadisticas a bet365
+Nos encontramos en el juego 0 del set 1
+El juego actual es: 3
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[4.3,1.15]
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-458")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-459")>]}, 12: {'cotizaciones': [4.33, 1.2], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-466")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-464")>]}, 13: {'cotizaciones': [1.72, 2.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-468")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-470")>]}}
+Margenes: [1.393841166936791,12.432432432432458]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 1.393841166936791, 12.432432432432458]
+Se ha encontrado apuesta en bet365({'cotizaciones': [3.75, 1.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-458")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-459")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 4 Winner
+Se esta comprobando el juego: 4 con 3
+Betfair-> Tipo apuesta: Set 1 Game 4 Winner Cotizaciones[4.3,1.15]
+Margenes: [1.393841166936791,12.432432432432458]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [12, 1.393841166936791, 12.432432432432458]
+Se ha encontrado apuesta en bet365({'cotizaciones': [4.33, 1.2], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-466")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-464")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 4 Point 7 Winner
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 5 Winner
+Se esta comprobando el juego: 5 con 3
+Betfair-> Tipo apuesta: Set 1 Game 5 Winner Cotizaciones[1.72,1.95]
+Margenes: [2.712933753943218,2.287390029325514]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [13, 2.712933753943218, 2.287390029325514]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.72, 2.0], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-468")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-470")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Game 6 Winner
+Se esta comprobando el juego: 6 con 3
+Betfair-> Tipo apuesta: Set 1 Game 6 Winner Cotizaciones[2.3,1.5]
+Margenes: [1.9409282700421946,3.529411764705884]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [14, 1.9409282700421946, 3.529411764705884]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 1 Winner
+Betfair-> Tipo apuesta: Set 1 Winner Cotizaciones[9.5,1.01]
+Margenes: [1.1838006230529594,1000]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 1.1838006230529594, 1000]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[2.62,1.44]
+Margenes: [1.7595701813297517,3.9130434782608705]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [5, 1.7595701813297517, 3.9130434782608705]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 1 Game 4, 5
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 1 Game 3, 4
+Betfair, tipo de apuesta antes de comprobar: Player B To Win Set 1 Game 4, 5
+Betfair, enviado fin de apuestas
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: M Klaffner / D Papamichail
+Comparando Cameron Norrie con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Cameron Norrie y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Lorenzo Sonego con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Lorenzo Sonego y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Novak Djokovic con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Novak Djokovic y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Taylor Fritz con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Taylor Fritz y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Federico Coria con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Federico Coria y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Joao Domingues con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Joao Domingues y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Pablo Cuevas con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Pablo Cuevas y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Viktor Troicki con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Viktor Troicki y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Thomaz Bellucci con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Thomaz Bellucci y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Ruben Bemelmans con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Ruben Bemelmans y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Giovanni Fonio con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Giovanni Fonio y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Gabriele Bosio con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Gabriele Bosio y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Danylo Kalenichenko con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Danylo Kalenichenko y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Jack Draper con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Jack Draper y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Fabien Reboul con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Fabien Reboul y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Guy Orly Iradukunda con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Guy Orly Iradukunda y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Arturs Lazdins con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Arturs Lazdins y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Pol Toledo Bague con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Pol Toledo Bague y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Tina Nadine Smith con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Tina Nadine Smith y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Anastasia Zolotareva con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Anastasia Zolotareva y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Aya El Sayed con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Aya El Sayed y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Ikumi Yamazaki con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Ikumi Yamazaki y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Barbara Haas con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Barbara Haas y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Federica Bilardo con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Federica Bilardo y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Anastasia Grymalska con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Anastasia Grymalska y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Lucrezia Stefanini con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Lucrezia Stefanini y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Nik Razborsek con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Nik Razborsek y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Franco Emanuel Egea con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Franco Emanuel Egea y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Emeline Dartron con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Emeline Dartron y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Ana L De La Nuez con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Ana L De La Nuez y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Koller/Rusova con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Koller/Rusova y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Koller y Klaffner -> 0.2
+Comparacion Rusova y Papamichail -> 0.0
+Comparando Karregat/Wensveen con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Karregat/Wensveen y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Karregat y Klaffner -> 0.05263157894736842
+Comparacion Wensveen y Papamichail -> 0.0
+Comparando Luikham/Ueda con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Luikham/Ueda y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Luikham y Klaffner -> 0.0
+Comparacion Ueda y Papamichail -> 0.0
+Comparando Kajevic/Tilbuerger con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Kajevic/Tilbuerger y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Kajevic y Klaffner -> 0.05555555555555555
+Comparacion Tilbuerger y Papamichail -> 0.0
+Comparando Pirok/Pribylova con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Pirok/Pribylova y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Pirok y Klaffner -> 0.0
+Comparacion Pribylova y Papamichail -> 0.043478260869565216
+Comparando Sezer/Vanlangendonck con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Sezer/Vanlangendonck y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Sezer y Klaffner -> 0.13333333333333333
+Comparacion Vanlangendonck y Papamichail -> 0.0
+Comparando Kubanova/Tomanova con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Kubanova/Tomanova y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Kubanova y Klaffner -> 0.05263157894736842
+Comparacion Tomanova y Papamichail -> 0.0
+Comparando Marculescu/Paykoc con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Marculescu/Paykoc y M Klaffner / D Papamichail
+Partido de dobles
+Comparacion Marculescu y Klaffner -> 0.0
+Comparacion Paykoc y Papamichail -> 0.10526315789473684
+Comparando Rita Atik con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Rita Atik y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Sinead Lohan con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Sinead Lohan y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Gloire Mfoumouangana con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Gloire Mfoumouangana y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Donika Bashota con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Donika Bashota y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Magdalena Stoilkovska con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Magdalena Stoilkovska y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Ines Bekrar con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Ines Bekrar y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Maria Giorgia Farrugia Sacco con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Maria Giorgia Farrugia Sacco y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Anna Soffia Gronholm con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Anna Soffia Gronholm y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Niklas Guttau con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Niklas Guttau y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Karl Friberg con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Karl Friberg y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Sidane Pontjodikromo con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Sidane Pontjodikromo y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Comparando Alexander Shevchenko con M Klaffner / D Papamichail
+Similar-> Jugadores recibidos: Alexander Shevchenko y M Klaffner / D Papamichail
+El segundo jugador es partido de dobles
+Soy bet365, no he encontrado el partido y voy a avisar a betfair
+Soy bet y estoy esperando que betfair me envie el jugador que tengo que buscar
+Soy bet y el jugador que he recibido es: D Kalenichenko
+Comparando Cameron Norrie con D Kalenichenko
+Similar-> Jugadores recibidos: Cameron Norrie y D Kalenichenko
+Partido individual
+Comparacion Norrie y Kalenichenko -> 0.0
+Comparando Lorenzo Sonego con D Kalenichenko
+Similar-> Jugadores recibidos: Lorenzo Sonego y D Kalenichenko
+Partido individual
+Comparacion Sonego y Kalenichenko -> 0.047619047619047616
+Comparando Novak Djokovic con D Kalenichenko
+Similar-> Jugadores recibidos: Novak Djokovic y D Kalenichenko
+Partido individual
+Comparacion Djokovic y Kalenichenko -> 0.0
+Comparando Taylor Fritz con D Kalenichenko
+Similar-> Jugadores recibidos: Taylor Fritz y D Kalenichenko
+Partido individual
+Comparacion Fritz y Kalenichenko -> 0.0
+Comparando Federico Coria con D Kalenichenko
+Similar-> Jugadores recibidos: Federico Coria y D Kalenichenko
+Partido individual
+Comparacion Coria y Kalenichenko -> 0.0
+Comparando Joao Domingues con D Kalenichenko
+Similar-> Jugadores recibidos: Joao Domingues y D Kalenichenko
+Partido individual
+Comparacion Domingues y Kalenichenko -> 0.0
+Comparando Pablo Cuevas con D Kalenichenko
+Similar-> Jugadores recibidos: Pablo Cuevas y D Kalenichenko
+Partido individual
+Comparacion Cuevas y Kalenichenko -> 0.0
+Comparando Viktor Troicki con D Kalenichenko
+Similar-> Jugadores recibidos: Viktor Troicki y D Kalenichenko
+Partido individual
+Comparacion Troicki y Kalenichenko -> 0.0
+Comparando Thomaz Bellucci con D Kalenichenko
+Similar-> Jugadores recibidos: Thomaz Bellucci y D Kalenichenko
+Partido individual
+Comparacion Bellucci y Kalenichenko -> 0.0
+Comparando Ruben Bemelmans con D Kalenichenko
+Similar-> Jugadores recibidos: Ruben Bemelmans y D Kalenichenko
+Partido individual
+Comparacion Bemelmans y Kalenichenko -> 0.0
+Comparando Giovanni Fonio con D Kalenichenko
+Similar-> Jugadores recibidos: Giovanni Fonio y D Kalenichenko
+Partido individual
+Comparacion Fonio y Kalenichenko -> 0.05
+Comparando Gabriele Bosio con D Kalenichenko
+Similar-> Jugadores recibidos: Gabriele Bosio y D Kalenichenko
+Partido individual
+Comparacion Bosio y Kalenichenko -> 0.05
+Comparando Danylo Kalenichenko con D Kalenichenko
+Similar-> Jugadores recibidos: Danylo Kalenichenko y D Kalenichenko
+Partido individual
+Comparacion Kalenichenko y Kalenichenko -> 1.0
+Soy bet, he encontrado el partido y voy a avisar a betfair
+Bet365 empieza a enviar cotizaciones al proceso de estadistica
+Bet365-> Tipo apuesta(To Win): Cotizaciones[1.57,2.25]
+Similar2-> Jugadores recibidos Danylo Kalenichenko y Jack Draper (Svr)
+Comparando Danylo Kalenichenko con Jack Draper
+Bet365-> Tipo apuesta(19th Game Winner) con colocacion incorrecta y juego 19th : Cotizaciones[1.14,5.00]
+Similar2-> Jugadores recibidos Danylo Kalenichenko y Danylo Kalenichenko (Svr)
+Comparando Danylo Kalenichenko con Danylo Kalenichenko
+Bet365-> Tipo apuesta(20th Game Winner) con colocacion correcta y juego 20th : Cotizaciones[1.44,2.62]
+Betfair empieza a enviar estadisticas a bet365
+Bet-> Diccionario de apuestas completo
+{1: {'cotizaciones': [1.57, 2.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-613")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-614")>]}, 27: {'cotizaciones': [5.0, 1.14], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-621")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-619")>]}, 28: {'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-623")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-625")>]}}
+Nos encontramos en el juego 10 del set 2
+El juego actual es: 18
+Betfair, tipo de apuesta antes de comprobar: Match Odds
+Betfair-> Tipo apuesta: Match Odds Cotizaciones[1.44,2.5]
+Margenes: [3.9130434782608705,1.8181818181818181]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [1, 3.9130434782608705, 1.8181818181818181]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.57, 2.25], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-613")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-614")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set 3 Total Games 3 Way
+Betfair, tipo de apuesta antes de comprobar: Set Betting
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 Winner
+Se esta comprobando el juego: 19 con 18
+Betfair-> Tipo apuesta: Set 2 Game 9 Winner Cotizaciones[2.7,1.38]
+Margenes: [1.7252396166134187,4.437299035369775]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [27, 1.7252396166134187, 4.437299035369775]
+Se ha encontrado apuesta en bet365({'cotizaciones': [5.0, 1.14], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-621")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-619")>]}), comprobamos cotizaciones
+Bet365, estamos ante una SURE BET-> Cotizacion: 5.0 Dinero a apostar: 4.0 Beneficios: 30
+SURE BET
+Betfair hace click en apostar
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 Winner
+Se esta comprobando el juego: 20 con 18
+Betfair-> Tipo apuesta: Set 2 Game 10 Winner Cotizaciones[1.44,2.5]
+Margenes: [3.9130434782608705,1.8181818181818181]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [28, 3.9130434782608705, 1.8181818181818181]
+Se ha encontrado apuesta en bet365({'cotizaciones': [1.44, 2.62], 'click': [<selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-623")>, <selenium.webdriver.remote.webelement.WebElement (session="191a403c52bbe92e5caaff1cdee9a983", element="0.6938111136956611-625")>]}), comprobamos cotizaciones
+Bet365, no hay sure bet
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 Correct Score
+Betfair, tipo de apuesta antes de comprobar: Set 2 Winner
+Betfair-> Tipo apuesta: Set 2 Winner Cotizaciones[2.1,1.66]
+Margenes: [2.1105527638190957,2.876949740034662]
+Betfair, enviado tipo apuesta
+Bet365, recibido tipo apuesta: [2, 2.1105527638190957, 2.876949740034662]
+Bet365, no encuentra apuesta
+Obteniendo proxima apuesta
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 10.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Total Games Over/Under 12.5
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 9 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game 10 To Deuce
+Betfair, tipo de apuesta antes de comprobar: Player A To Win Set 2 Game 8, 9
+Betfair, tipo de apuesta antes de comprobar: Both Players to win a Set (Yes/No)
+Betfair, tipo de apuesta antes de comprobar: J Draper to Win at Least 1 Set
+Betfair, tipo de apuesta antes de comprobar: Set Handicap -1.5
+Betfair, tipo de apuesta antes de comprobar: Match and Both Players to win a Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 2nd Set
+Betfair, tipo de apuesta antes de comprobar: Correct Score 3rd Set
+Betfair, tipo de apuesta antes de comprobar: Set 2 Game Handicap 1.5
+Betfair, enviado fin de apuestas
